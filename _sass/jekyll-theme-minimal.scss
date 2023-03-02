@@ -118,7 +118,7 @@ kbd {
 }
 
 header {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -135,11 +135,12 @@ ul.downloads {
 }
 
 .downloads li {
-  width:100px;
+  width:270px;
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
 }
+
 
 .downloads li:first-child a {
   border-radius:5px 0 0 5px;
@@ -173,9 +174,6 @@ strong {
   font-weight:700;
 }
 
-.downloads li {
-  width:100px;
-}
 
 .downloads a strong {
   font-size:14px;

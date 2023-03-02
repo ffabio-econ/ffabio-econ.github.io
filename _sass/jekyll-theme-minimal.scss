@@ -125,10 +125,15 @@ header {
 }
 
 
-subheader {
-  width:300px;
+pddd {
   padding:50px 50px 50px 50px;
 }
+
+chtxt {
+  justify-content: center;
+}
+
+
 
 ul.downloads {
   list-style:none;
@@ -138,7 +143,6 @@ ul.downloads {
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:210px;
-  align-self: center;
 }
 
 .downloads li {

@@ -2,11 +2,17 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome!
 
-[Link to another page](./another-page.html).
+I am a **PhD student** at the **University of Bologna** (Italy).
 
-There should be whitespace between paragraphs.
+My research focuses on **macro-finance**.
+
+[~~another page~~](./another-page.html).
+
+[Institutional webpage](https://www.unibo.it/sitoweb/fabio.franceschini4/en).
+
+_There should be whitespace between paragraphs._
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 

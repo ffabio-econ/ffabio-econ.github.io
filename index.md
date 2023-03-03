@@ -2,9 +2,7 @@
 layout: default
 ---
 
-> I am not even supposed to be here.
->
-> LeBron James (2013), NBA Finals Trophy presentation
+> Welcome! 
 
 # Education
 
@@ -20,8 +18,6 @@ _Currently:_  PhD in Economics at University of Bologna (IT)
 2018: MSc in Advanced Economics and Finance at **Copenhagen Business School** (DK) <br>
 2016: BSc in Business Administration at University of Bologna (IT) <br>
 2013: Diploma in Mechanical Engineering at Aldini Valeriani Technical Institute (Bologna, IT) <br>
-
-* * *
 
 # Research
 
@@ -43,6 +39,8 @@ Does CAPM overestimate more the risk or its price?
 
 I show that two explanations of the CAPM low-risk anomaly, one related to funding frictions and the other to coskewness risk, interact in an ambiguous way, being partly complements and part substitutes. I establish the mutually excluding effects to be dominating and then, with the potential of one to completely undermine the other, I proceed showing to which extent both contribute in explaining such anomaly.
 
+* * *
+
 
 # Teaching experience
 2022-23: Asset Pricing (G), TA to Prof. M. Gonzales-Eiras, University of Bologna (IT)
@@ -57,6 +55,8 @@ I show that two explanations of the CAPM low-risk anomaly, one related to fundin
 # Work experience
 2017: Research assistant at Copenhagen Economics (DK)
 
+
+* * *
 
 # Contacts
 Office: Room 120 – Piazza Scaravilli 2, 40126 Bologna, Italy <br>

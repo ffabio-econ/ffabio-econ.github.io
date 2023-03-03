@@ -8,7 +8,7 @@ layout: default
 
 # Education
 
-_Currently:_ PhD in Economics at University of Bologna (IT) <br>
+_Currently:_ PhD in Economics at University of Bologna (IT)
 * Supervisors: [M. Gonzales-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna); [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
 * PhD students’ representative in the Council of Department
 * Organizer of the DSE Reading Group in Macro-Finance
@@ -17,7 +17,7 @@ _Currently:_ PhD in Economics at University of Bologna (IT) <br>
 2020-21: (Virtual) Visiting Student at **Bocconi University** (IT), sponsor: M.M. Croce <br>
 2020: (Virtual) Visiting Student at **Vienna Graduate School of Finance** (AT), sponsor: C. Wagner <br>
 
-2018: MSc in Advanced Economics and Finance at **Copenhagen Business School** (DK)
+2018: MSc in Advanced Economics and Finance at **Copenhagen Business School** (DK) <br>
 2016: BSc in Business Administration at University of Bologna (IT) <br>
 2013: Diploma in Mechanical Engineering at Aldini Valeriani Technical Institute (Bologna, IT) <br>
 
@@ -58,7 +58,7 @@ I show that two explanations of the CAPM low-risk anomaly, one related to fundin
 
 
 # Contacts
-Office: Room 120 – Piazza Scaravilli 2, <br> 40126 Bologna, Italy <br>
+Office: Room 120 – Piazza Scaravilli 2, 40126 Bologna, Italy <br>
 [Institutional webpage](https://www.unibo.it/sitoweb/fabio.franceschini4/en) <br>
 [SSRN Author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2836171) <br>
 [Twitter](https://twitter.com/FFabio_econ) <br>

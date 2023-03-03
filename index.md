@@ -27,11 +27,12 @@ _Currently:_  PhD in Economics at University of Bologna (IT)
 
 ## Job Market Paper
 
+-
 
 
 ## Working papers
 
-My research focuses on **macro-finance**.
+-
 
 ## Research in progress
 The source of long-run productivity risk in R&D
@@ -71,22 +72,20 @@ Placement Director: [Pietro Biroli](https://sites.google.com/site/pietrobiroli/h
 
 <!-- [~~another page~~](./another-page.html). -->
 
-
-
-| head1        | head two          | three |
+<!-- | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| ok           | good `zoute` drop | yumm  | -->
 
 
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![oibafox](/assets/img/oibafox.png)
 
 
 
-<dl>
+<!-- <dl>
 <dt>Name</dt>
 <dd>Godzilla</dd>
 <dt>Born</dt>
@@ -95,9 +94,9 @@ Placement Director: [Pietro Biroli](https://sites.google.com/site/pietrobiroli/h
 <dd>Japan</dd>
 <dt>Color</dt>
 <dd>Green</dd>
-</dl>
+</dl> -->
 
 
-```
+<!-- ```
 The final element.
-```
+``` -->

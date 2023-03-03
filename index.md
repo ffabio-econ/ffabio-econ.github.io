@@ -10,7 +10,6 @@ My research focuses on **macro-finance**.
 
 [~~another page~~](./another-page.html).
 
-.
 
 _There should be whitespace between paragraphs._
 

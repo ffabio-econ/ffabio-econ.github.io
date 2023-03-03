@@ -2,37 +2,59 @@
 layout: default
 ---
 
+> I am not even supposed to be here.
+>
+> LeBron James (2013), NBA Finals Trophy presentation
 
 # Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+_Currently:_ PhD in Economics at University of Bologna (IT) <br>
+* Supervisors: [M. Gonzales-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna); [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
+* PhD students’ representative in the Council of Department
+* Organizer of the DSE Reading Group in Macro-Finance
+
+2022-23: Visiting Student at London Business School (UK), sponsor: H. Kung <br>
+2020-21: (Virtual) Visiting Student at Bocconi University (IT), sponsor: M.M. Croce <br>
+2020: (Virtual) Visiting Student at Vienna Graduate School of Finance (AT), sponsor: C. Wagner <br>
+
+2018: MSc in Advanced Economics and Finance at Copenhagen Business School (DK)
+2016: BSc in Business Administration at University of Bologna (IT) <br>
+2013: Diploma in Mechanical Engineering at Aldini Valeriani Technical Institute (Bologna, IT) <br>
 
 * * *
 
 # Research
-_There should be whitespace between paragraphs._
-
 
 ## Job Market Paper
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
 
 ## Working papers
 
 My research focuses on **macro-finance**.
 
 ## Research in progress
+The source of long-run productivity risk in R&D
+
+I estimate a measure of aggregate R&D expenditure intensity yielded by a cointegration relationship implied by an approximation of most standard semi-endogenous growth models. I provide evidence that this measure identifies a component of long-run productivity risk by showing its forecasting power with respect to other macroeconomic quantities and the strength of the cross-sectional risk premium related to portfolios’ cash flows sensitivities to this measure.
+
+Does CAPM overestimate more the risk or its price?
+
+I show that two explanations of the CAPM low-risk anomaly, one related to funding frictions and the other to coskewness risk, interact in an ambiguous way, being partly complements and part substitutes. I establish the mutually excluding effects to be dominating and then, with the potential of one to completely undermine the other, I proceed showing to which extent both contribute in explaining such anomaly.
 
 
 # Teaching experience
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+2022-23: Asset Pricing (G), TA to Prof. M. Gonzales-Eiras, University of Bologna (IT)
+
+2021: Asset Pricing (G), TA to Prof. G. Camera, University of Bologna (IT)
+
+2020: Financial Instruments and Markets (UG), TA to Prof. G. Camera, University of Bologna (IT)
+
+2018: Macroeconomics 2 (U/G), TA to Prof. A. Sørensen, Copenhagen Business School (DK)
 
 
 # Work experience
-*   This is an unordered list following a header.
+2017: Research assistant at Copenhagen Economics (DK)
 
 
 # Contacts
@@ -43,7 +65,9 @@ My research focuses on **macro-finance**.
 
 ## References
 
-[~~another page~~](./another-page.html).
+Placement Director: [Pietro Biroli](https://sites.google.com/site/pietrobiroli/home)
+
+<!-- [~~another page~~](./another-page.html). -->
 
 
 

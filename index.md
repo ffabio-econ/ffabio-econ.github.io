@@ -2,18 +2,6 @@
 layout: default
 ---
 
-Welcome!
-
-I am a **PhD student** at the **University of Bologna** (Italy).
-
-My research focuses on **macro-finance**.
-
-[~~another page~~](./another-page.html).
-
-
-_There should be whitespace between paragraphs._
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Education
 
@@ -22,6 +10,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 * * *
 
 # Research
+_There should be whitespace between paragraphs._
+
 
 ## Job Market Paper
 
@@ -30,6 +20,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 > When something is important enough, you do it even if the odds are not in your favor.
 
 ## Working papers
+
+My research focuses on **macro-finance**.
 
 ## Research in progress
 
@@ -51,6 +43,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## References
 
+[~~another page~~](./another-page.html).
 
 
 

@@ -2,12 +2,13 @@
 layout: default
 ---
 
-> Welcome! 
+<!-- > Welcome! 
+>  -->
 
 # Education
 
 _Currently:_  PhD in Economics at University of Bologna (IT)
-* Supervisors: [M. Gonzales-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna); [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
+* Supervisors: [M. Gonzales-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna) and [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
 * PhD students’ representative in the Council of Department
 * Organizer of the DSE Reading Group in Macro-Finance
 

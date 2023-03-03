@@ -19,6 +19,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+* * *
+
 # Research
 
 ## Job Market Paper
@@ -33,22 +35,24 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 
 # Teaching experience
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
 
 
 # Work experience
-
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# Contacts
+      [Institutional webpage](https://www.unibo.it/sitoweb/fabio.franceschini4/en) <br>
+      [Twitter](https://twitter.com/FFabio_econ) <br>
+      [LinkedIn](https://www.linkedin.com/in/f-fabio/?locale=en_US) <br>
+      Office: Room 120 – Piazza Scaravilli 2, <br> 40126 Bologna, Italy <br>
 
-###### Header 6
+## References
+
+
+
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -57,50 +61,11 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
 
 <dl>
 <dt>Name</dt>
@@ -113,9 +78,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <dd>Green</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
 ```
 The final element.

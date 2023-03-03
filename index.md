@@ -13,11 +13,11 @@ _Currently:_ PhD in Economics at University of Bologna (IT) <br>
 * PhD students’ representative in the Council of Department
 * Organizer of the DSE Reading Group in Macro-Finance
 
-2022-23: Visiting Student at London Business School (UK), sponsor: H. Kung <br>
-2020-21: (Virtual) Visiting Student at Bocconi University (IT), sponsor: M.M. Croce <br>
-2020: (Virtual) Visiting Student at Vienna Graduate School of Finance (AT), sponsor: C. Wagner <br>
+2022-23: Visiting Student at **London Business School** (UK), sponsor: H. Kung <br>
+2020-21: (Virtual) Visiting Student at **Bocconi University** (IT), sponsor: M.M. Croce <br>
+2020: (Virtual) Visiting Student at **Vienna Graduate School of Finance** (AT), sponsor: C. Wagner <br>
 
-2018: MSc in Advanced Economics and Finance at Copenhagen Business School (DK)
+2018: MSc in Advanced Economics and Finance at **Copenhagen Business School** (DK)
 2016: BSc in Business Administration at University of Bologna (IT) <br>
 2013: Diploma in Mechanical Engineering at Aldini Valeriani Technical Institute (Bologna, IT) <br>
 

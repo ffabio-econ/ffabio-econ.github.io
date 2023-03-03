@@ -81,7 +81,7 @@ Placement Director: [Pietro Biroli](https://sites.google.com/site/pietrobiroli/h
 
 
 
-![oibafox](/assets/img/oibafox.png)
+![oibafox](/assets/img/oibafox.png) 
 
 
 

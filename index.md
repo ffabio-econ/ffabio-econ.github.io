@@ -32,11 +32,12 @@ _Currently:_  PhD in Economics at University of Bologna (IT)
 -
 
 ## Research in progress
-The source of long-run productivity risk in R&D
+
+<p style="text-align: center; font-weight:bold;">The source of long-run productivity risk in R&D</p>
 
 I estimate a measure of aggregate R&D expenditure intensity yielded by a cointegration relationship implied by an approximation of most standard semi-endogenous growth models. I provide evidence that this measure identifies a component of long-run productivity risk by showing its forecasting power with respect to other macroeconomic quantities and the strength of the cross-sectional risk premium related to portfolios’ cash flows sensitivities to this measure.
 
-Does CAPM overestimate more the risk or its price?
+**Does CAPM overestimate more the risk or its price?**
 
 I show that two explanations of the CAPM low-risk anomaly, one related to funding frictions and the other to coskewness risk, interact in an ambiguous way, being partly complements and part substitutes. I establish the mutually excluding effects to be dominating and then, with the potential of one to completely undermine the other, I proceed showing to which extent both contribute in explaining such anomaly.
 

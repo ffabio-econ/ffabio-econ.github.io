@@ -41,8 +41,6 @@ I estimate a measure of aggregate R&D expenditure intensity yielded by a cointeg
 
 I show that two explanations of the CAPM low-risk anomaly, one related to funding frictions and the other to coskewness risk, interact in an ambiguous way, being partly complements and part substitutes. I establish the mutually excluding effects to be dominating and then, with the potential of one to completely undermine the other, I proceed showing to which extent both contribute in explaining such anomaly.
 
-* * *
-
 
 # Teaching experience
 2022-23: Asset Pricing (G), TA to Prof. M. Gonzales-Eiras, University of Bologna (IT)
@@ -58,7 +56,6 @@ I show that two explanations of the CAPM low-risk anomaly, one related to fundin
 2017: Research assistant at Copenhagen Economics (DK)
 
 
-* * *
 
 # Contacts
 Office: Room 120 – Piazza Scaravilli 2, 40126 Bologna, Italy <br>
@@ -81,7 +78,9 @@ Placement Director: [Pietro Biroli](https://sites.google.com/site/pietrobiroli/h
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  | -->
 
-
+<br>
+* * *
+<br>
 
 ![oibafox](/assets/img/oibafox.png) 
 

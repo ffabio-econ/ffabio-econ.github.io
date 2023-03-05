@@ -92,7 +92,7 @@ Placement Director: [Pietro Biroli](https://sites.google.com/site/pietrobiroli/h
 
 ![oibafox](/assets/img/oibafox.png)
 
-<img style="margin-left: auto;margin-right: auto;"  src="/assets/img/oibafox.png" alt="oibafox" />
+<!-- <img style="margin-left: auto;margin-right: auto;"  src="/assets/img/oibafox.png" alt="oibafox" /> -->
 
 
 

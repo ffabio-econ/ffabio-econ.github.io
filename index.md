@@ -60,7 +60,7 @@ I show that two explanations of the CAPM low-risk anomaly, one related to fundin
 # Work experience
 2017: Research assistant at Copenhagen Economics (DK) 
 
-2014: Intern at Planning and Control OU - Local Health Authority (Bologna, IT)
+2014: Intern at Planning and Control OU - Bologna Local Health Authority (IT)
 
 <br>
 

@@ -20,6 +20,9 @@ _Currently:_  PhD in Economics at University of Bologna (IT)
 2016: BSc in Business Administration at University of Bologna (IT) <br>
 2013: Diploma in Mechanical Engineering at Aldini Valeriani Technical Institute (Bologna, IT) <br>
 
+
+<br>
+
 # Research
 
 ## Job Market Paper
@@ -41,6 +44,7 @@ I estimate a measure of aggregate R&D expenditure intensity yielded by a cointeg
 
 I show that two explanations of the CAPM low-risk anomaly, one related to funding frictions and the other to coskewness risk, interact in an ambiguous way, being partly complements and part substitutes. I establish the mutually excluding effects to be dominating and then, with the potential of one to completely undermine the other, I proceed showing to which extent both contribute in explaining such anomaly.
 
+<br>
 
 # Teaching experience
 2022-23: Asset Pricing (G), TA to Prof. M. Gonzales-Eiras, University of Bologna (IT)
@@ -52,10 +56,13 @@ I show that two explanations of the CAPM low-risk anomaly, one related to fundin
 2018: Macroeconomics 2 (U/G), TA to Prof. A. Sørensen, Copenhagen Business School (DK)
 
 
+<br>
+
 # Work experience
 2017: Research assistant at Copenhagen Economics (DK)
+2014: Intern at Planning and Control OU - Local Health Authority (Bologna, IT)
 
-
+<br>
 
 # Contacts
 Office: Room 120 – Piazza Scaravilli 2, 40126 Bologna, Italy <br>
@@ -82,7 +89,8 @@ Placement Director: [Pietro Biroli](https://sites.google.com/site/pietrobiroli/h
 * * *
 <br>
 
-![oibafox](/assets/img/oibafox.png) 
+<img style="margin-inline: auto;"  src="/assets/img/oibafox.png" alt="oibafox" />
+
 
 
 

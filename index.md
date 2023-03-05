@@ -55,11 +55,11 @@ I show that two explanations of the CAPM low-risk anomaly, one related to fundin
 
 2018: Macroeconomics 2 (U/G), TA to Prof. A. Sørensen, Copenhagen Business School (DK)
 
-
 <br>
 
 # Work experience
-2017: Research assistant at Copenhagen Economics (DK) <br>
+2017: Research assistant at Copenhagen Economics (DK) 
+
 2014: Intern at Planning and Control OU - Local Health Authority (Bologna, IT)
 
 <br>
@@ -89,7 +89,7 @@ Placement Director: [Pietro Biroli](https://sites.google.com/site/pietrobiroli/h
 * * *
 <br>
 
-<img style="margin-inline: auto;"  src="/assets/img/oibafox.png" alt="oibafox" />
+<img style="margin-left: auto;margin-right: auto;"  src="/assets/img/oibafox.png" alt="oibafox" />
 
 
 

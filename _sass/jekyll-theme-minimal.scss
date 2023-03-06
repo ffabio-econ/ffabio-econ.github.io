@@ -1,11 +1,15 @@
 @import "fonts";
 @import "rouge-github";
 
+tt {
+  font-family: "Inconsolata", "Lucida Console", "Monaco", "Courier", monospace;
+}
+
 
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Roboto", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Roboto", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#222;
   font-weight:300;
 }

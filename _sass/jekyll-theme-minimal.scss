@@ -15,7 +15,7 @@ body {
   font-weight:300;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h3, h4, h5, h6 {
   font-family: 'Playfair Display', serif;
   margin: 35px 0 20px;
 }
@@ -37,6 +37,7 @@ h2 {
   color:#494949;
   // color:#222; 
   margin-inline: auto;
+  margin-block: 35px 20px;
 }
 
 h3, h4, h5, h6 {

@@ -29,7 +29,7 @@ _Currently:_  PhD in Economics at University of Bologna (IT)
 ## Research in progress
 
 <!-- style="text-align: center; margin-block: 10px;" -->
-<p style="margin-block: 10px;"> <strong> The long-run innovation risk </strong> (Job Market Paper)</p>
+<p style="margin-block: 10px;"> <strong> The long-run innovation risk </strong> <i>(Job Market Paper)</i></p>
 
 <p style="padding-left:25px"> I estimate a measure of aggregate R&D expenditure intensity yielded by a cointegration relationship implied by an approximation of most standard semi-endogenous growth models. I provide evidence that this measure identifies a component of long-run productivity risk by showing its forecasting power with respect to other macroeconomic quantities and the strength of the cross-sectional risk premium related to portfolios’ cash flows sensitivities to this measure. </p>
 

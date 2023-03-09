@@ -52,9 +52,35 @@
       </header>
       <section>
 
-        {% include toc.html html=content %}
-        
-      {{ content }}
+      <!-- {% include toc.html html=content %} -->
+
+      <!-- {{ content }} -->
+
+      {{ if gt (len .TableOfContents) 80}}
+
+    <!-- Version of the page with table of contents -->
+    <main>
+        <div id="top-of-site-pixel-anchor"></div>
+
+        <div class="content blog-content">
+            {{ .Content }}
+        </div>
+
+        <aside class="hidden lg:block tableOfContentContainer" id="tableOfContentContainer">
+
+            <h3>Table of contents</h3>
+            {{ .TableOfContents }}
+        </aside>
+    </main>
+
+{{ else }}
+
+    <!-- Version of the page without table of contents -->
+    <div class="content blog-content">
+        {{ .Content }}
+    </div>
+
+{{ end }}
 
       </section>
       <footer>

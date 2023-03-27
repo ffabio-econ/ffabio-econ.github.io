@@ -56,7 +56,7 @@ _Currently:_  PhD in Economics at University of Bologna (IT)
 
 # Contacts
 Office: Room 120 – Piazza Scaravilli 2, 40126 Bologna, Italy <br>
-[Institutional webpage](https://www.unibo.it/sitoweb/fabio.franceschini4/en) <br>
+[Institutional webpage](https://www.unibo.it/sitoweb/f.franceschini/en) <br>
 [SSRN Author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2836171) <br>
 [Twitter](https://twitter.com/FFabio_econ) <br>
 [LinkedIn](https://www.linkedin.com/in/f-fabio/?locale=en_US) <br>

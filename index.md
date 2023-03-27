@@ -7,11 +7,12 @@ layout: default
 
 # Education
 
-_Currently:_  PhD in Economics at University of Bologna (IT)
+_Currently:_  PhD in Economics at **University of Bologna** (IT)
 * Supervisors: [M. Gonzales-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna) and [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
 * PhD students’ representative in the Council of Department
 * Organizer of the DSE Reading Group in Macro-Finance
 
+2023-24: Research Fellow at University of Bologna (IT), supervisor: G. Cavaliere <br>
 2022-23: Visiting Student at **London Business School** (UK), sponsor: H. Kung <br>
 2020-21: Visiting Student (virtually) at **Bocconi University** (IT), sponsor: M.M. Croce <br>
 2020: Visiting Student (virtually) at **Vienna Graduate School of Finance** (AT), sponsor: C. Wagner <br>

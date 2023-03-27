@@ -5,22 +5,6 @@ layout: default
 <!-- > Welcome! 
 >  -->
 
-# Education
-
-_Currently:_  PhD in Economics at **University of Bologna** (IT)
-* Supervisors: [M. Gonzales-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna) and [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
-* PhD students’ representative in the Council of Department
-* Organizer of the DSE Reading Group in Macro-Finance
-
-2023-24: Research Fellow at University of Bologna (IT), supervisor: G. Cavaliere <br>
-2022-23: Visiting Student at **London Business School** (UK), sponsor: H. Kung <br>
-2020-21: Visiting Student (virtually) at **Bocconi University** (IT), sponsor: M.M. Croce <br>
-2020: Visiting Student (virtually) at **Vienna Graduate School of Finance** (AT), sponsor: C. Wagner <br>
-
-2018: MSc in Advanced Economics and Finance at **Copenhagen Business School** (DK) <br>
-2016: BSc in Business Administration at University of Bologna (IT) <br>
-2013: Diploma in Mechanical Engineering at Aldini Valeriani Technical Institute (Bologna, IT) <br>
-
 # Research
 
 
@@ -38,6 +22,25 @@ _Currently:_  PhD in Economics at **University of Bologna** (IT)
 <p style="font-weight:bold; margin-block: 10px;">Does CAPM overestimate more the risk or its price?</p>
 
 <p style="padding-left:25px"> I show that two explanations of the CAPM low-risk anomaly, one related to funding frictions and the other to coskewness risk, interact in an ambiguous way, being partly complements and part substitutes. I establish the mutually excluding effects to be dominating and then, with the potential of one to completely undermine the other, I proceed showing to which extent both contribute in explaining such anomaly. </p>
+
+
+# Education
+
+_Currently:_  PhD in Economics at **University of Bologna** (IT)
+* Supervisors: [M. Gonzales-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna) and [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
+* PhD students’ representative in the Council of Department
+* Organizer of the DSE Reading Group in Macro-Finance
+
+2023-24: Research Fellow at University of Bologna (IT), supervisor: G. Cavaliere <br>
+2022-23: Visiting Student at **London Business School** (UK), sponsor: H. Kung <br>
+2020-21: Visiting Student (virtually) at **Bocconi University** (IT), sponsor: M.M. Croce <br>
+2020: Visiting Student (virtually) at **Vienna Graduate School of Finance** (AT), sponsor: C. Wagner <br>
+
+2018: MSc in Advanced Economics and Finance at **Copenhagen Business School** (DK) <br>
+2016: BSc in Business Administration at University of Bologna (IT) <br>
+2013: Diploma in Mechanical Engineering at Aldini Valeriani Technical Institute (Bologna, IT) <br>
+
+
 
 
 # Teaching experience

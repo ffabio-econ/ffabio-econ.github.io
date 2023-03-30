@@ -21,7 +21,7 @@ layout: default
 
 <p style="font-weight:bold; margin-block: 10px;">Does CAPM overestimate more the risk or its price?</p>
 
-<p style="padding-left:25px"> I show that two explanations of the CAPM low-risk anomaly, one related to funding frictions and the other to coskewness risk, interact in an ambiguous way, being partly complements and part substitutes. I establish the mutually excluding effects to be dominating and then, with the potential of one to completely undermine the other, I proceed showing to which extent both contribute in explaining such anomaly. </p>
+<!-- <p style="padding-left:25px"> I show that two explanations of the CAPM low-risk anomaly, one related to funding frictions and the other to coskewness risk, interact in an ambiguous way, being partly complements and part substitutes. I establish the mutually excluding effects to be dominating and then, with the potential of one to completely undermine the other, I proceed showing to which extent both contribute in explaining such anomaly. </p> -->
 
 
 # Education

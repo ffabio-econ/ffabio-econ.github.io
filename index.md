@@ -16,12 +16,12 @@ layout: default
 <!-- style="text-align: center; margin-block: 10px;" -->
 <p style="margin-block: 10px;"> <strong> The long-run innovation risk component </strong> <i>  </i></p>
 
-<p style="padding-left:25px"> I study a measure of aggregate R&D expenditure intensity yielded by a cointegration relationship implied by the approximation of a standard semi-endogenous growth models. I provide evidence that this measure identifies a component of long-run productivity risk by showing its forecasting power with respect to other macroeconomic quantities and the strength of the cross-sectional risk premium related to portfolios’ cash flows sensitivities to this measure. </p>
+<p style="padding-left:25px"> I provide empirical support to the long-run productivity risk framework of asset pricing. I do so by studying a measure of aggregate R&D expenditure intensity implied by a cointegration relationship approximately holding in most standard semi-endogenous growth models. As predicted by theory, this measure shows great forecasting power with respect to relevant macroeconomic quantities such as the TFP and consumption growth rates. This measure also proves being highly persistent and being related to a significant cross-sectional risk premium, where risk is limited to stocks’ cash flows sensitivities, which are the key features to identify a long-run productivity risk component. </p>
 
 
 <p style="font-weight:bold; margin-block: 10px;">Does CAPM overestimate more the risk or its price?</p>
 
-<!-- <p style="padding-left:25px"> I show that two explanations of the CAPM low-risk anomaly, one related to funding frictions and the other to coskewness risk, interact in an ambiguous way, being partly complements and part substitutes. I establish the mutually excluding effects to be dominating and then, with the potential of one to completely undermine the other, I proceed showing to which extent both contribute in explaining such anomaly. </p> -->
+<p style="padding-left:25px"> I reframe the CAPM deviations in a flexible and concise representation that allows for both financial frictions and systematic risks beyond the market returns. This enable an empirical investigation to assess the extent to which the CAPM low-risk anomaly is due to funding frictions, which survive any risk factor, or omitted risk factors, even ones not yet explored. </p> 
 
 
 # Education

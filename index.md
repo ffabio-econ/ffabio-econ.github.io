@@ -45,11 +45,13 @@ _Currently:_  PhD in Economics at **University of Bologna** (IT)
 
 
 # Teaching experience
-2022-23: Asset Pricing (G), TA to Prof. M. Gonzales-Eiras, University of Bologna (IT)
+2022-24: Asset Pricing (Grad), TA to Prof. M. Gonzales-Eiras, University of Bologna (IT)
 
-2021: Asset Pricing (G), TA to Prof. G. Camera, University of Bologna (IT)
+2024: Financial Econometrics (Grad), TA to Prof. G. Moramarco, University of Bologna (IT)
 
-2020: Financial Instruments and Markets (UG), TA to Prof. G. Camera, University of Bologna (IT)
+2021: Asset Pricing (Grad), TA to Prof. G. Camera, University of Bologna (IT)
+
+2020: Financial Instruments and Markets (UndGrad), TA to Prof. G. Camera, University of Bologna (IT)
 
 2018: Macroeconomics 2 (U/G), TA to Prof. A. Sørensen, Copenhagen Business School (DK)
 

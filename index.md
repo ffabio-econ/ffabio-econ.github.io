@@ -8,10 +8,8 @@ layout: default
 # Research
 
 
-## Working papers
-
-
-## Research in progress
+<!-- ## Working papers
+## Research in progress -->
 
 <!-- style="text-align: center; margin-block: 10px;" -->
 <p style="margin-block: 10px;"> <strong> The long-run innovation risk component </strong> <i>  </i></p>
@@ -22,6 +20,9 @@ layout: default
 <p style="font-weight:bold; margin-block: 10px;">Does CAPM overestimate more the risk or its price?</p>
 
 <p style="padding-left:25px"> I reframe the CAPM deviations in a flexible and concise representation that allows for both financial frictions and systematic risks beyond the market returns. This enable an empirical investigation to assess the extent to which the CAPM low-risk anomaly is due to funding frictions, which survive any risk factor, or omitted risk factors, even ones not yet explored. </p> 
+
+<p style="font-weight:bold; margin-block: 10px;">Sustainability premium and risk</p>
+
 
 
 # Education

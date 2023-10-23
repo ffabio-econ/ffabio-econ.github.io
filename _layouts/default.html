@@ -16,14 +16,14 @@
   <body style = "font-family: Roboto;padding-top: 10px;">
     <div class="wrapper">
 
-      <nav>
-        <ul>
-          <li>Test1</li>
-          <li>Test2</li>
-        </ul>
-      </nav>  
-
       <header>
+        <nav>
+          <ul>
+            {% for item in site.data.menu %}
+            <li><a class="{% if page.url == item.link %}active{% endif %}" href="{{item.link}}">{{item.title}}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
         <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
           <!-- font-family: 'EB Garamond', serif; font-variant: small-caps; -->
           <div style="text-align: center; margin-inline: auto;">

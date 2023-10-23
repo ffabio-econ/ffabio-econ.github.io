@@ -30,7 +30,7 @@ layout: default
 
 # Education
 
-_Currently:_  PhD in Economics at **University of Bologna** (IT)
+Currently:  <i>PhD in Economics</i> at **University of Bologna** (IT)
 * Supervisors: [M. Gonzales-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna) and [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
 * PhD students’ representative in the Council of Department
 * Organizer of the DSE Reading Group in Macro-Finance
@@ -40,28 +40,28 @@ _Currently:_  PhD in Economics at **University of Bologna** (IT)
 2020-21: Visiting Student (virtually) at **Bocconi University** (IT), sponsor: M.M. Croce <br>
 2020: Visiting Student (virtually) at **Vienna Graduate School of Finance** (AT), sponsor: C. Wagner <br>
 
-2018: MSc in Advanced Economics and Finance at **Copenhagen Business School** (DK) <br>
-2016: BSc in Business Administration at University of Bologna (IT) <br>
-2013: Diploma in Mechanical Engineering at Aldini Valeriani Technical Institute (Bologna, IT) <br>
+2018: <i>MSc in Advanced Economics</i> and Finance at **Copenhagen Business School** (DK) <br>
+2016: <i>BSc in Business Administration</i> at University of Bologna (IT) <br>
+2013: <i>Diploma in Mechanical Engineering</i> at Aldini Valeriani Technical Institute (Bologna, IT) <br>
 
 
 
 
 # Teaching experience
-2022-24: Asset Pricing (Grad), TA to Prof. M. Gonzales-Eiras, University of Bologna (IT)
+2022-24: <i>Asset Pricing</i> (Grad), TA to Prof. M. Gonzales-Eiras, University of Bologna (IT)
 
-2024: Financial Econometrics (Grad), TA to Prof. G. Moramarco, University of Bologna (IT)
+2024: <i>Financial Econometrics</i> (Grad), TA to Prof. G. Moramarco, University of Bologna (IT)
 
-2021: Asset Pricing (Grad), TA to Prof. G. Camera, University of Bologna (IT)
+2021: <i>Asset Pricing</i> (Grad), TA to Prof. G. Camera, University of Bologna (IT)
 
-2020: Financial Instruments and Markets (UndGrad), TA to Prof. G. Camera, University of Bologna (IT)
+2020: <i>Financial Instruments and Markets</i> (UndGrad), TA to Prof. G. Camera, University of Bologna (IT)
 
-2018: Macroeconomics 2 (U/G), TA to Prof. A. Sørensen, Copenhagen Business School (DK)
+2018: <i>Macroeconomics 2</i> (UndGrad), TA to Prof. A. Sørensen, Copenhagen Business School (DK)
 
 # Work experience
-2017: Research assistant at Copenhagen Economics (DK) 
+2017: <i>Research assistant</i> at Copenhagen Economics (DK) 
 
-2014: Intern at Planning and Control OU - Bologna Local Health Authority (IT)
+2014: <i>Intern</i> at Planning and Control OU - Bologna Local Health Authority (IT)
 
 
 # Contacts

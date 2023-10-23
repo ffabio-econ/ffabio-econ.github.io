@@ -10,7 +10,7 @@ tt {
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Roboto", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 16px/1.5 "Roboto", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#222;
   font-weight:300;
 }
@@ -29,7 +29,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:30px;
   color:#1c4587;
 }
 
@@ -227,6 +227,12 @@ footer {
 .addrtxt {
   font-family: monospace;
   font-size: 17px;
+}
+
+
+.abstracttxt{
+  padding-left: 25px;
+  font-size: 14px;
 }
 
 

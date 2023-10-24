@@ -63,9 +63,9 @@ At <span class = "locit">Copenhagen Business School</span> (DK):
 2018: **Macroeconomics 2** (UndGrad), TA to Prof. A. Sørensen
 
 # Work experience
-2017: **Research assistant** at _Copenhagen Economics A/S_ (DK) 
+2017: **Research assistant** at <span class = "locit">Copenhagen Economics A/S</span> (DK) 
 
-2014: **Intern** at _Planning and Control OU - Bologna Local Health Authority_ (IT)
+2014: **Intern** at <span class = "locit">Planning and Control OU - Bologna Local Health Authority</span> (IT)
 
 
 # Contacts

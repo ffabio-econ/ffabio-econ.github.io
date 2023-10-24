@@ -42,13 +42,13 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 
 2018: **MSc in Advanced Economics** and Finance at <span class = "locit">Copenhagen Business School</span> (DK) <br>
 2016: **BSc in Business Administration** at <span class = "locit">University of Bologna</span> (IT) <br>
-2013: **Diploma in Mechanical Engineering** at <span class = "locit">Aldini Valeriani Technical Institute</span> (Bologna, IT) <br>
+2013: **Diploma in Mechanical Engineering** at <span class = "locit">I.I.S. Aldini Valeriani</span> (Bologna, IT) <br>
 
 
 
 
 # Teaching experience
-&nbsp;At <span class = "locit">University of Bologna</span> (IT):
+&emsp;At <span class = "locit">University of Bologna</span> (IT):
 
 2022-24: **Asset Pricing** (Grad), TA to Prof. M. Gonzales-Eiras
 
@@ -58,7 +58,7 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 
 2020: **Financial Instruments and Markets** (UndGrad), TA to Prof. G. Camera
 
-&nbsp;At <span class = "locit">Copenhagen Business School</span> (DK):
+&emsp;At <span class = "locit">Copenhagen Business School</span> (DK):
 
 2018: **Macroeconomics 2** (UndGrad), TA to Prof. A. Sørensen
 

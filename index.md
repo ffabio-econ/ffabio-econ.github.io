@@ -36,27 +36,31 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 * Organizer of the DSE Reading Group in Macro-Finance
 
 <!-- 2023-24: Research Fellow at University of Bologna (IT), supervisor: G. Cavaliere <br> -->
-2022-23: Visiting Student at _London Business School_ (UK), sponsor: H. Kung <br>
-2020-21: Visiting Student (virtually) at _Bocconi University_ (IT), sponsor: M.M. Croce <br>
-2020: Visiting Student (virtually) at _Vienna Graduate School of Finance_ (AT), sponsor: C. Wagner <br>
+2022-23: Visiting Student at <span class = "locit">London Business School</span> (UK), sponsor: H. Kung <br>
+2020-21: Visiting Student (virtually) at <span class = "locit">Bocconi University</span> (IT), sponsor: M.M. Croce <br>
+2020: Visiting Student (virtually) at <span class = "locit">Vienna Graduate School of Finance</span> (AT), sponsor: C. Wagner <br>
 
-2018: **MSc in Advanced Economics** and Finance at _Copenhagen Business School_ (DK) <br>
-2016: **BSc in Business Administration** at _University of Bologna_ (IT) <br>
-2013: **Diploma in Mechanical Engineering** at _Aldini Valeriani Technical Institute_ (Bologna, IT) <br>
+2018: **MSc in Advanced Economics** and Finance at <span class = "locit">Copenhagen Business School</span> (DK) <br>
+2016: **BSc in Business Administration** at <span class = "locit">University of Bologna</span> (IT) <br>
+2013: **Diploma in Mechanical Engineering** at <span class = "locit">Aldini Valeriani Technical Institute</span> (Bologna, IT) <br>
 
 
 
 
 # Teaching experience
-2022-24: **Asset Pricing** (Grad), TA to Prof. M. Gonzales-Eiras, _University of Bologna_ (IT)
+At <span class = "locit">University of Bologna</span> (IT):
 
-2024: **Financial Econometrics** (Grad), TA to Prof. G. Moramarco, _University of Bologna_ (IT)
+2022-24: **Asset Pricing** (Grad), TA to Prof. M. Gonzales-Eiras
 
-2021: **Asset Pricing** (Grad), TA to Prof. G. Camera, _University of Bologna_ (IT)
+2024: **Financial Econometrics** (Grad), TA to Prof. G. Moramarco
 
-2020: **Financial Instruments and Markets** (UndGrad), TA to Prof. G. Camera, _University of Bologna_ (IT)
+2021: **Asset Pricing** (Grad), TA to Prof. G. Camera
 
-2018: **Macroeconomics 2** (UndGrad), TA to Prof. A. Sørensen, _Copenhagen Business School_ (DK)
+2020: **Financial Instruments and Markets** (UndGrad), TA to Prof. G. Camera
+
+At <span class = "locit">Copenhagen Business School</span> (DK):
+
+2018: **Macroeconomics 2** (UndGrad), TA to Prof. A. Sørensen
 
 # Work experience
 2017: **Research assistant** at _Copenhagen Economics A/S_ (DK) 

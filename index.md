@@ -48,7 +48,7 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 
 
 # Teaching experience
-At <span class = "locit">University of Bologna</span> (IT):
+&nbsp;At <span class = "locit">University of Bologna</span> (IT):
 
 2022-24: **Asset Pricing** (Grad), TA to Prof. M. Gonzales-Eiras
 
@@ -58,7 +58,7 @@ At <span class = "locit">University of Bologna</span> (IT):
 
 2020: **Financial Instruments and Markets** (UndGrad), TA to Prof. G. Camera
 
-At <span class = "locit">Copenhagen Business School</span> (DK):
+&nbsp;At <span class = "locit">Copenhagen Business School</span> (DK):
 
 2018: **Macroeconomics 2** (UndGrad), TA to Prof. A. Sørensen
 

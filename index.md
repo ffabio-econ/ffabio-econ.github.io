@@ -35,7 +35,7 @@ I am fascinated by economic growth; the natural environment; and the act of lend
 # Education
 
 Currently:  **PhD in Economics** at <span class = "locit">University of Bologna</span> (IT)
-* Supervisors: [M. Gonzales-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna) and [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
+* Supervisors: [M. Gonzalez-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna) and [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
 * PhD students’ representative in the Council of Department
 * Organizer of the DSE Reading Group in Macro-Finance
 
@@ -54,7 +54,7 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 # Teaching experience
 &emsp;At <span class = "locit">University of Bologna</span> (IT):
 
-2022-24: **Asset Pricing** (Grad), TA to Prof. M. Gonzales-Eiras
+2022-24: **Asset Pricing** (Grad), TA to Prof. M. Gonzalez-Eiras
 
 2024: **Financial Econometrics** (Grad), TA to Prof. G. Moramarco
 

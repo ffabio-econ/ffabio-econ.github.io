@@ -5,6 +5,9 @@ layout: default
 <!-- > Welcome! 
 >  -->
 
+I am fascinated by innovation activities and economic growth; the natural environment; and the act of lending resources. In my work I employ statistical tools, such as cointegration models and dimension-reduction techniques, to study aggregate economic phenomena and mechanisms related to these themes, through the lenses of financial markets.
+
+
 # Research
 
 

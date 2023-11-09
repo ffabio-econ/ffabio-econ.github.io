@@ -10,6 +10,8 @@ tt {
 body {
   background-color: #fff;
   padding:50px;
+  padding-top: 0px;
+  margin-top: 0px;
   font: 16px/1.5 "Roboto", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#222;
   font-weight:300;
@@ -27,6 +29,9 @@ p, ul, ol, table, pre, dl {
 nav {
   width: 730px;
   background-color: #fff;
+  justify-content: space-between;
+  font-size:21px;
+  padding-block: 20px 10px;
 }
 
 h1, h2, h3 {

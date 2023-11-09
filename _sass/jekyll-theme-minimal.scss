@@ -78,16 +78,18 @@ a:hover small {
   color:#777;
 }
 
-nblinks {
+nav a {
   color:#03121f;
   text-decoration: none;
 }
 
-nblinks:hover {
+nav:hover a {
   color:#fff;
   background-color: #03121f;
   /* font-weight: bold; */
 }
+
+
 
 .wrapper {
   width:1080px;

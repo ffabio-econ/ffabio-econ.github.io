@@ -80,18 +80,19 @@ a:hover small {
 nav a {
   color:#03121f;
   text-decoration: none;
+  font-weight: 400;
+  font-size:30px;
 }
 
 nav a:hover {
   color:#fff;
   background-color: #03121f;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 current {
   color:#fff;
   background-color: #03121f;
-  font-weight: 300;
 }
 
 

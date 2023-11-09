@@ -21,7 +21,11 @@
         <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
         {% assign current = null %}
     {% endif %}
-    <a class="{{ current }}" style="padding: 8px; margin-inline: 0px 21px;" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+    <a {{ current }} style="padding: 10px 4px 10px 3px; margin-inline: 0px 21px;" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
 {% endfor %}
 
 </nav>
+
+
+
+

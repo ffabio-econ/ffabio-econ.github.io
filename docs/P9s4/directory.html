@@ -44,8 +44,8 @@
     </head>
 
 <div id="form" style="display: block; margin: 50px;">
-    <input type="password" id="passwordInput" placeholder="Inserisci la password">
-    <button onclick="checkPassword()">Invia</button>
+    <input type="password" id="pInput" placeholder="Scrivi qui">
+    <button onclick="spara()">Invia</button>
 </div>
 
         <body id="contenuto">
@@ -76,19 +76,20 @@
 
             <script>
                 
-                var passwordInput = document.getElementById("passwordInput");
+                var pInput = document.getElementById("pInput");
 
-                passwordInput.addEventListener("keyup", function(event) {
+                pInput.addEventListener("keyup", function(event) {
                     event.preventDefault();
                     if (event.keyCode === 13) {
-                        checkPassword();
+                        spara();
                     }
                     });
 
-                function checkPassword() {
-                    var password = passwordInput.value;
+                function spara() {
+                    var sword = pInput.value;
+                    var og = "33trentini";
                         
-                    if (password === "password_corretta") {
+                    if (sword === og) {
                         document.getElementById("content").style.display = "block";
                         document.getElementById("form").style.display = "none";
                     }

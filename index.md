@@ -39,7 +39,7 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 * PhD students’ representative in the Council of Department
 * Organizer of the DSE Reading Group in Macro-Finance
 
-<!-- 2023-24: Research Fellow at University of Bologna (IT), supervisor: G. Cavaliere <br> -->
+2023-24: Research Fellowship at <span class = "locit">University of Bologna</span> (IT), supervisor: G. Cavaliere <br>
 2022-23: Visiting Student at <span class = "locit">London Business School</span> (UK), sponsor: H. Kung <br>
 2020-21: Visiting Student (virtually) at <span class = "locit">Bocconi University</span> (IT), sponsor: M.M. Croce <br>
 2020: Visiting Student (virtually) at <span class = "locit">Vienna Graduate School of Finance</span> (AT), sponsor: C. Wagner <br>

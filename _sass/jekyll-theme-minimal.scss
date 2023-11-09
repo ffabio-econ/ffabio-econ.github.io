@@ -78,11 +78,15 @@ a:hover small {
   color:#777;
 }
 
-
 nblinks {
-  size: 25;
   color:#03121f;
-  text-decoration:none;
+  text-decoration: none;
+}
+
+nblinks:hover {
+  color:#fff;
+  background-color: #03121f;
+  /* font-weight: bold; */
 }
 
 .wrapper {

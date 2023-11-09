@@ -43,31 +43,56 @@
         </style>
     </head>
 
+<div id="form" style="display: block; margin: 50px;">
+    <input type="password" id="passwordInput" placeholder="Inserisci la password">
+    <button onclick="checkPassword()">Invia</button>
+</div>
+
+        <body id="contenuto">
+            <div id="content" style="display: none;">
+                <h1>P9 (GRINS), spoke 4: <a href="https://liveunibo-my.sharepoint.com/:f:/g/personal/f_franceschini_unibo_it/Er8c4R_H8TFLllkU2VQPuekBTA05AhkCJn8OgQieeCV3GA?e=pRkhYP">shared material</a> directory</h1>
+
+                <h2>Deliverables</h2>
+                <ul>
+                    <li><a href="https://liveunibo-my.sharepoint.com/:b:/g/personal/f_franceschini_unibo_it/EfQOGibUEGpLrTtyTHIWAAMB3s2aMce33pB87-dZxNox0Q?e=43hgBe">Climate Finance Introduction</a> <br> An introduction to the issue of climate from an economic point of view, especially focused on the pricing on financial markets. </li>
+                    <li><a href="https://liveunibo-my.sharepoint.com/:x:/g/personal/f_franceschini_unibo_it/EZy6CneUivlGvzr3sFIz27oBs-j-OeVc-lBMcaeAu8xkcg?e=gcOxdi">Data list</a> <br> A searchable list of climate-relevant datasets and databases.</li>
+                </ul>
     
+    
+                <h2>Libraries</h2>
+                <ul>
+                    <li><a href="https://liveunibo-my.sharepoint.com/:f:/g/personal/f_franceschini_unibo_it/ElCvqyjt3gpPkBcKUY0-lUcBWmtii8WtK6_ZdsqylMlp_Q?e=GMP0oA">Scientific literature</a></li>
+                    <li><a href="https://liveunibo-my.sharepoint.com/:f:/g/personal/f_franceschini_unibo_it/EvC5Q3FAAflEjgrd9uY4dd8B6p2tk1QqCrfHXK5ieXmjjQ?e=hg0CSR">Data repository</a></li>
+                </ul>
+    
+    
+                <h2>Projects</h2>
+    
+                <div style="margin-left: 30px;">
+                    <p>Research Project #1: greenness-risk interdependence [<a href="https://liveunibo-my.sharepoint.com/:b:/g/personal/f_franceschini_unibo_it/ESHNHzpx5cFAuppUGfg2ThEBbFePYUZDZEDWiLsBx9EBhw?e=Hf6S60">Paper</a>] [<a href="https://liveunibo-my.sharepoint.com/:b:/g/personal/f_franceschini_unibo_it/EeDyQ4-a6bhKp6AILfa2KkQBikvnPQ-aqARPRygSDcizWw?e=q7VgHF">Old presentation</a>]</p>
+                    <p>Other projects [<a href="https://liveunibo-my.sharepoint.com/:b:/g/personal/f_franceschini_unibo_it/EShkQVeTGedLugtpLMc77bQBzmXN-2dYXJMRRAz-tMv_Ww?e=nV5vGw">Ideas' summaries</a>]</p>
+                </div>    
+            </div> 
 
-        <body>
-            <h1>P9 (GRINS), spoke 4: <a href="https://liveunibo-my.sharepoint.com/:f:/g/personal/f_franceschini_unibo_it/Er8c4R_H8TFLllkU2VQPuekBTA05AhkCJn8OgQieeCV3GA?e=pRkhYP">shared material</a> directory</h1>
+            <script>
+                
+                var passwordInput = document.getElementById("passwordInput");
 
-            <h2>Deliverables</h2>
-            <ul>
-                <li><a href="https://liveunibo-my.sharepoint.com/:b:/g/personal/f_franceschini_unibo_it/EfQOGibUEGpLrTtyTHIWAAMB3s2aMce33pB87-dZxNox0Q?e=43hgBe">Climate Finance Introduction</a> <br> An introduction to the issue of climate from an economic point of view, especially focused on the pricing on financial markets. </li>
-                <li><a href="https://liveunibo-my.sharepoint.com/:x:/g/personal/f_franceschini_unibo_it/EZy6CneUivlGvzr3sFIz27oBs-j-OeVc-lBMcaeAu8xkcg?e=gcOxdi">Data list</a> <br> A searchable list of climate-relevant datasets and databases.</li>
-            </ul>
+                passwordInput.addEventListener("keyup", function(event) {
+                    event.preventDefault();
+                    if (event.keyCode === 13) {
+                        checkPassword();
+                    }
+                    });
 
-
-            <h2>Libraries</h2>
-            <ul>
-                <li><a href="https://liveunibo-my.sharepoint.com/:f:/g/personal/f_franceschini_unibo_it/ElCvqyjt3gpPkBcKUY0-lUcBWmtii8WtK6_ZdsqylMlp_Q?e=GMP0oA">Scientific literature</a></li>
-                <li><a href="https://liveunibo-my.sharepoint.com/:f:/g/personal/f_franceschini_unibo_it/EvC5Q3FAAflEjgrd9uY4dd8B6p2tk1QqCrfHXK5ieXmjjQ?e=hg0CSR">Data repository</a></li>
-            </ul>
-
-
-            <h2>Projects</h2>
-
-            <div style="margin-left: 30px;">
-                <p>Research Project #1: greenness-risk interdependence [<a href="https://liveunibo-my.sharepoint.com/:b:/g/personal/f_franceschini_unibo_it/ESHNHzpx5cFAuppUGfg2ThEBbFePYUZDZEDWiLsBx9EBhw?e=Hf6S60">Paper</a>] [<a href="https://liveunibo-my.sharepoint.com/:b:/g/personal/f_franceschini_unibo_it/EeDyQ4-a6bhKp6AILfa2KkQBikvnPQ-aqARPRygSDcizWw?e=q7VgHF">Old presentation</a>]</p>
-                <p>Other projects [<a href="https://liveunibo-my.sharepoint.com/:b:/g/personal/f_franceschini_unibo_it/EShkQVeTGedLugtpLMc77bQBzmXN-2dYXJMRRAz-tMv_Ww?e=nV5vGw">Ideas' summaries</a>]</p>
-            </div>     
-
+                function checkPassword() {
+                    var password = passwordInput.value;
+                        
+                    if (password === "password_corretta") {
+                        document.getElementById("content").style.display = "block";
+                        document.getElementById("form").style.display = "none";
+                    }
+                }
+            </script>
         </body>
     </html>

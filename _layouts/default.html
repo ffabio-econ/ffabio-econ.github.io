@@ -57,14 +57,7 @@
      
       </header>
       <section>
-        <nav>
-          <ul>
-            {% for item in site.data.menu %}
-            <li><a class="{% if page.url == item.link %}active{% endif %}" href="{{item.link}}">{{item.title}}</a></li>
-            {% endfor %}
-          </ul>
-        </nav>
-      <!-- {% include toc.html html=content %} -->
+        {{ site.data.navigation}}
 
       {{ content }}
       

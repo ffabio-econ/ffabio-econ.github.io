@@ -75,13 +75,13 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 # Contacts
 Office: Room 7 (former DISA library) – Piazza Scaravilli 1, 40126 Bologna, Italy <br>
 [Institutional webpage](https://www.unibo.it/sitoweb/f.franceschini/en) <br>
-[SSRN Author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2836171) <br>
+<!-- [SSRN Author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2836171) <br> -->
 [Twitter](https://twitter.com/FFabio_econ) <br>
 [LinkedIn](https://www.linkedin.com/in/f-fabio/?locale=en_US) <br>
 
-## References
+<!-- ## References
 
-Placement Director: [Pietro Biroli](https://sites.google.com/site/pietrobiroli/home)
+Placement Director: [Pietro Biroli](https://sites.google.com/site/pietrobiroli/home) -->
 
 
 <!-- [~~another page~~](./another-page.html). -->

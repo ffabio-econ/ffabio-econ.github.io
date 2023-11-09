@@ -17,7 +17,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Playfair Display', serif;
-  margin-block: 35px 20px;
+  margin-block: 5px 20px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -26,6 +26,7 @@ p, ul, ol, table, pre, dl {
 
 nav {
   width: 730px;
+  background-color: #fff;
 }
 
 h1, h2, h3 {
@@ -75,7 +76,7 @@ a:hover small {
 
 nblinks {
   size: 25;
-  color:#000000;
+  color:#03121f;
   text-decoration:none;
 }
 

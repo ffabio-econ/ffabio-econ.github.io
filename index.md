@@ -16,10 +16,9 @@ I am fascinated by economic growth; the natural environment; and the act of lend
 ## Research in progress -->
 
 <!-- style="text-align: center; margin-block: 10px;" -->
-<p style="margin-block: 10px;"> <strong> The long-run innovation risk component </strong> [<a href="#" class="toggleLink">Abstract</a>] </p>
-
+<div style="margin-block: 10px;"> <strong> The long-run innovation risk component </strong> [<a href="#" class="toggleLink">Abstract</a>]
 <p class="abstracttxt" style="display: none;">A persistent component in productivity growth has been shown to be related to a persistent component in consumption, which has significant implications for asset prices. As one of the main drivers of productivity growth is known to be innovation yielded from Research and Development (R&D) expenses, this paper studies a measure of R&D intensity defined by the stationary deviations in R&D investment from the equilibrium level in a semi-endogenous growth model. This results being the error correction term of the cointegration between R&D expenditures and the productivity level. This R&D intensity measure strongly forecasts productivity growth and proves having a persistence that matches well previous evidence on the productivity growth <i>long-run risk component</i>, thus supporting its identification of a long-run <i>innovation</i> risk component and all of the long-run risk framework. This is then verified testing the financial implications: stocks' cash flows sensitivities to this measure are proven being associated with a significant cross-sectional risk premium.</p>
-
+ </div>
 
 
 <p style="font-weight:bold; margin-block: 10px;">Does CAPM overestimate more the risk or its price?</p>

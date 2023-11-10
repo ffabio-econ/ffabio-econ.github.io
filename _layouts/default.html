@@ -75,5 +75,24 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      // Get all h1 elements
+      const headers = document.querySelectorAll('h1');
+  
+      // Create a new Intersection Observer instance
+      const observer = new IntersectionObserver((entries) => {
+          entries.forEach(entry => {
+              if (entry.isIntersecting) {
+                  // Update the URL hash when the h1 element is in the viewport
+                  window.location.hash = entry.target.id;
+              }
+          });
+      });
+  
+      // Observe each h1 element
+      headers.forEach(header => {
+          observer.observe(header);
+      });
+  </script>
   </body>
 </html>

@@ -99,5 +99,25 @@
           observer.observe(header);
       });
   </script>
+  <script>
+    // Get the current URL
+    const currentUrl = window.location.pathname;
+
+    // Get all links in the nav
+    const navLinks = document.querySelectorAll('nav a');
+
+    // Loop through the links
+    navLinks.forEach(link => {
+        // Get the href of the link
+        const linkUrl = link.getAttribute('href');
+
+        // If the href matches the current URL, add the 'current' class
+        if (linkUrl === currentUrl) {
+            link.classList.add('current');
+        } else {
+            link.classList.remove('current');
+        }
+    });
+</script>
   </body>
 </html>

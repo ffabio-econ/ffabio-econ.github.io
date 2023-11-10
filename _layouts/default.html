@@ -83,10 +83,12 @@
       const observer = new IntersectionObserver((entries) => {
           entries.forEach(entry => {
               if (entry.isIntersecting) {
-                  // Update the URL hash when the h1 element is in the viewport
-                  window.location.hash = entry.target.id;
+                  // Update the URL without triggering a scroll
+                  history.pushState(null, null, '#' + entry.target.id);
               }
           });
+      }, {
+          threshold: 0.6 // Adjust this value as needed
       });
   
       // Observe each h1 element

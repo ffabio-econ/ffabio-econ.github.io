@@ -17,16 +17,13 @@
 
 <body>
   <div class="wrapper">
-
     <header>
 
       <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
       <!-- font-family: 'EB Garamond', serif; font-variant: small-caps; -->
-      <div style="text-align: center; margin-inline: auto;">
-        <h1
-          style="font-family: 'Roboto', sans-serif; background-color: #03121f; color: #FFFFFF; display: inline-block; padding-inline: 10px; padding-block: 4px 3px; margin-top: 20px; margin-bottom: 20px;">
-          Fabio Franceschini
-        </h1>
+      <div
+        style="font-family: 'Roboto', sans-serif; background-color: #03121f; color: #FFFFFF; display: inline-block; padding-inline: 10px; padding-block: 4px 3px; margin-top: 20px; margin-bottom: 20px; text-align: center; margin-inline: auto;">
+        Fabio Franceschini
       </div>
       <!-- #bb2e29 -->
       <!-- font-family: 'Playfair Display', serif; -->
@@ -34,54 +31,50 @@
       <img src="{{site.logo | relative_url}}" alt="Logo" />
       {% endif %}
 
-      <p style="font-size: 14px; padding: 10px;margin-top:10px;"> <!-- font-size: 16px; -->
+      <div style="font-size: 14px; padding: 10px;margin-top:10px;"> <!-- font-size: 16px; -->
         PhD student @ University of Bologna (IT) <br>
         <br>
         Research in macro-finance <br>
         <br>
         <span class="addrtxt">ffabio.econ [at] gmail.com</span>
-      </p>
+      </div>
 
       <!-- {% if site.github.is_project_page %}
-          <p class="view pddd"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-          {% endif %} -->
+                <p class="view pddd"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+                {% endif %} -->
 
       <!-- {% if site.github.is_user_page %}
-          <p class="view pddd"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-          {% endif %} -->
+                <p class="view pddd"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+                {% endif %} -->
 
       {% if site.show_downloads %}
       <ul class="downloads" style="padding: 0px;margin-bottom: 20px;">
         <li><a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/cv.pdf">Download
             <strong>CV</strong></a></li>
         <!--          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-      <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>-->
+            <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>-->
       </ul>
       {% endif %}
 
-    </header>
-    <section>
-      <header>
-        <!--{{ site.data.navigation}}-->
-        {% include navigation.html %}
-      </header>
+      <p style="font-size:11px; bottom:0px;">Last updated in November 2023</p>
 
-      <div style="margin-top: 80px;">
+    </header>
+
+    <section>
+
+      {% include navigation.html %}
+      <!--{{ site.data.navigation}}-->
+
+      <div style="padding-top: 80px;">
         {{ content }}
       </div>
 
     </section>
-    <footer>
-      {% if site.github.is_project_page %}
-      <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-      {% endif %}
-      <p><small>Last updated in November 2023</a></small></p>
-    </footer>
+
   </div>
 
 
   <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
-
 
   <script>
     // Get all h1 elements

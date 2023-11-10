@@ -2,7 +2,7 @@
 
 <!-- This finds the current page so it can be highlighted. -->
 
-{% for entry in site.data.navigation %}
+<!-- {% for entry in site.data.navigation %}
 {% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
     {% if fullurl == page.url %}
         {% assign current_page = fullurl %}
@@ -10,18 +10,18 @@
     {% elsif page.url contains fullurl %}
         {% assign current_page = fullurl %}
     {% endif %}
-{% endfor %}
+{% endfor %}-->
 
 <!-- Then we build the nav bar. -->
 <nav>
 {% for entry in site.data.navigation %}
-{% if entry.url == current_page %}
+    <!--  {% if entry.url == current_page %}
         {% assign current = ' class="current"' %}
     {% else %}
-        <!--  We have to declare it 'null' to ensure it doesn't propagate. -->
+        We have to declare it 'null' to ensure it doesn't propagate. 
         {% assign current = null %}
-    {% endif %} 
-    <a {{ current }} style="padding: 4px 10px 3px 10px; margin-inline: 0px 21px;" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a> <!--{{ current }} after "a"-->
+    {% endif %} -->
+    <a style="padding: 4px 10px 3px 10px; margin-inline: 0px 21px;" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a> <!--{{ current }} after "a"-->
 {% endfor %}
 
 </nav>

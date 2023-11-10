@@ -75,19 +75,35 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+
+
     <script>
       // Get all h1 elements
       const headers = document.querySelectorAll('h1');
   
+      // Get all links in the nav
+      const navLinks = document.querySelectorAll('nav a');
+  
       // Create a new Intersection Observer instance
       const observer = new IntersectionObserver((entries) => {
           entries.forEach(entry => {
-              // Ignore the first intersection
-              if (entry.target === headers[0] && !entry.isIntersecting) return;
-  
               if (entry.isIntersecting) {
                   // Update the URL without triggering a scroll
                   history.pushState(null, null, '#' + entry.target.id);
+  
+                  // Loop through the links
+                  navLinks.forEach(link => {
+                      // Get the href of the link
+                      const linkUrl = link.getAttribute('href');
+  
+                      // If the href matches the current URL, add the 'current' class
+                      if (linkUrl === '#' + entry.target.id) {
+                          link.classList.add('current');
+                      } else {
+                          link.classList.remove('current');
+                      }
+                  });
               }
           });
       }, {
@@ -99,25 +115,7 @@
           observer.observe(header);
       });
   </script>
-  <!-- <script>
-    // Get the current URL
-    const currentUrl = window.location.pathname;
 
-    // Get all links in the nav
-    const navLinks = document.querySelectorAll('nav a');
 
-    // Loop through the links
-    navLinks.forEach(link => {
-        // Get the href of the link
-        const linkUrl = link.getAttribute('href');
-
-        // If the href matches the current URL, add the 'current' class
-        if (linkUrl === currentUrl) {
-            link.classList.add('current');
-        } else {
-            link.classList.remove('current');
-        }
-    });
-</script> -->
   </body>
 </html>

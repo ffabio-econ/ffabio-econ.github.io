@@ -41,8 +41,8 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 
 2023-24: Research Fellowship at <span class = "locit">University of Bologna</span> (IT), supervisor: G. Cavaliere <br>
 2022-23: Visiting Student at <span class = "locit">London Business School</span> (UK), sponsor: H. Kung <br>
-2020-21: Visiting Student (virtually) at <span class = "locit">Bocconi University</span> (IT), sponsor: M.M. Croce <br>
-2020: Visiting Student (virtually) at <span class = "locit">Vienna Graduate School of Finance</span> (AT), sponsor: C. Wagner <br>
+2020-21: Visiting Student (virtual) at <span class = "locit">Bocconi University</span> (IT), sponsor: M.M. Croce <br>
+2020: Visiting Student (virtual) at <span class = "locit">Vienna Graduate School of Finance</span> (AT), sponsor: C. Wagner <br>
 
 2018: **MSc in Advanced Economics** and Finance at <span class = "locit">Copenhagen Business School</span> (DK) <br>
 2016: **BSc in Business Administration** at <span class = "locit">University of Bologna</span> (IT) <br>

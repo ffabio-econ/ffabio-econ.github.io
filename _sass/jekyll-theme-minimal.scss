@@ -32,6 +32,7 @@ nav {
   font-size:21px;
   padding-block: 20px 10px;
   margin-top: 4px;
+  display: none;
 }
 
 h1, h2, h3 {
@@ -305,6 +306,10 @@ footer {
     right:50px;
     top:52px;
   }
+
+  nav {
+    display: block;
+  }
 }
 
 @media print, screen and (max-width: 720px) {
@@ -324,9 +329,6 @@ footer {
     word-wrap:normal;
   }
 
-  nav {
-    display: block;
-  }
 }
 
 @media print, screen and (max-width: 480px) {
@@ -340,10 +342,6 @@ footer {
 
   .downloads li, .downloads li {
     width:100%;
-  }
-  
-  nav {
-    display: block;
   }
 }
 

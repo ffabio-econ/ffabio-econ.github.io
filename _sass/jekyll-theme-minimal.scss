@@ -323,6 +323,10 @@ footer {
   pre, code {
     word-wrap:normal;
   }
+
+  nav {
+    display: block;
+  }
 }
 
 @media print, screen and (max-width: 480px) {
@@ -336,6 +340,10 @@ footer {
 
   .downloads li, .downloads li {
     width:100%;
+  }
+  
+  nav {
+    display: block;
   }
 }
 

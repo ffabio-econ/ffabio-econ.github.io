@@ -82,6 +82,9 @@
       // Create a new Intersection Observer instance
       const observer = new IntersectionObserver((entries) => {
           entries.forEach(entry => {
+              // Ignore the first intersection
+              if (entry.target === headers[0] && !entry.isIntersecting) return;
+  
               if (entry.isIntersecting) {
                   // Update the URL without triggering a scroll
                   history.pushState(null, null, '#' + entry.target.id);

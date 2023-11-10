@@ -21,11 +21,11 @@ I am fascinated by economic growth; the natural environment; and the act of lend
  </div>
 
 
-<div style="margin-block: 10px;"><strong> Does CAPM overestimate more the risk or its price?</strong> [<a href="#" class="toggleLink">Abstract</a>]
+<div style="margin-block: 16px;"><strong> Does CAPM overestimate more the risk or its price?</strong> [<a href="#" class="toggleLink">Abstract</a>]
 <p class="abstracttxt" style="display: none;"> This paper studies the contributions of tight financial constraints and risk factors other than the market in explaining the CAPM low risk anomaly. It theoretically shows the counteracting effect they have on each other and empirically measures the share of CAPM mispricing that each of them accounts for. While the spread on zero-beta assets originated in leverage constraints proves being extremely significant, it does not appear to play the biggest role in explaining the anomaly. Risk factors agnostically extracted from test assets end up explaining all of the predicted return of the BAB portfolio as formed by Frazzini and Pedersen (2014, JFE) and two thirds of the BAB portfolio formed as in Novy-Marx and Velikov (2022, JFE), although the latter is not significantly different from an equal contribution of 50%.</p> 
 </div>
 
-<div style="margin-block: 10px;"><strong> Sustainability premium and risk: Betting Against Sustainability?</strong> [<a href="#" class="toggleLink">Abstract</a>]
+<div style="margin-block: 16px;"><strong> Sustainability premium and risk: Betting Against Sustainability?</strong> [<a href="#" class="toggleLink">Abstract</a>]
 <p class="abstracttxt" style="display: none;"> When sustainability of assets is appreciated, its effect on discount rates does not only depend on the sustainability of the asset priced, but it is intrinsically mediated by the risk profile of the asset. This has implications for the assessment of the sustainability-related spread and for hedging shocks to sustainability concern. Specifically, (1) long-short portfolios of assets sorted on sustainability can average returns with a sign unrelated to the actual sustainability spread and, consequently, (2) the effectiveness of more sustainable assets in hedging changes to the sustainability spead depends on their ‘sustainability intensity’ and their risk <i>jointly</i>. Currently, this is tested on the Refinitiv ESG scores for US data, with inconclusive evidence regarding the existence of a ESG-related premium in the first place. </p> 
 </div>
 
@@ -41,7 +41,7 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 2020-21: Visiting Student (virtual) at <span class = "locit">Bocconi University</span> (IT), sponsor: M.M. Croce <br>
 2020: Visiting Student (virtual) at <span class = "locit">Vienna Graduate School of Finance</span> (AT), sponsor: C. Wagner <br>
 
-2018: **MSc in Advanced Economics** and Finance at <span class = "locit">Copenhagen Business School</span> (DK) <br>
+2018: **MSc in Advanced Economics and Finance** at <span class = "locit">Copenhagen Business School</span> (DK) <br>
 2016: **BSc in Business Administration** at <span class = "locit">University of Bologna</span> (IT) <br>
 2013: **HSD in Mechanical Engineering** at <span class = "locit">I.I.S. Aldini Valeriani</span> (Bologna, IT) <br>
 

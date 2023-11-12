@@ -41,6 +41,8 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 2020-21: Visiting Student (virtual) at <span class = "locit">Bocconi University</span> (IT), sponsor: M.M. Croce <br>
 2020: Visiting Student (virtual) at <span class = "locit">Vienna Graduate School of Finance</span> (AT), sponsor: C. Wagner <br>
 
+<br>
+
 2018: **MSc in Advanced Economics and Finance** at <span class = "locit">Copenhagen Business School</span> (DK) <br>
 2016: **BSc in Business Administration** at <span class = "locit">University of Bologna</span> (IT) <br>
 2013: **HSD in Mechanical Engineering** at <span class = "locit">I.I.S. Aldini Valeriani</span> (Bologna, IT) <br>
@@ -58,6 +60,8 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 2021: **Asset Pricing** (Grad), TA to Prof. G. Camera
 
 2020: **Financial Instruments and Markets** (UndGrad), TA to Prof. G. Camera
+
+<br>
 
 &emsp;At <span class = "locit">Copenhagen Business School</span> (DK):
 

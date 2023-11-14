@@ -76,19 +76,20 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 # Contacts
 Office: Room 7 (former DISA library) – Piazza Scaravilli 1, 40126 Bologna, Italy <br>
 
+<!-- [SSRN Author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2836171) <br> -->
 [Institutional webpage](https://www.unibo.it/sitoweb/f.franceschini/en) <br>
 
-<!-- [SSRN Author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2836171) <br> -->
+[LinkedIn](https://www.linkedin.com/in/f-fabio/?locale=en_US) <br>
+
 [Twitter](https://twitter.com/FFabio_econ) <br>
 
-[LinkedIn](https://www.linkedin.com/in/f-fabio/?locale=en_US) <br>
 
 ## References
 
 
 <div class="two-columns">
-    <p>**Martín Gonzalez-Eiras**<br>Associate Professor<br>University of Bologna<br><span class="addrtxt">mge -> alum.mit.edu</span></p>
-    <p>**Mariano Massimiliano Croce**<br>Professor of Finance<br>Bocconi University<br> <span class="addrtxt">mmc287 -> gmail.com</span></p>
+    <p><strong>Martín Gonzalez-Eiras</strong><br>Associate Professor<br>University of Bologna<br><span class="addrtxt">mge -> alum.mit.edu</span></p>
+    <p><strong>Mariano Massimiliano Croce</strong><br>Professor of Finance<br>Bocconi University<br> <span class="addrtxt">mmc287 -> gmail.com</span></p>
 </div>
 
 

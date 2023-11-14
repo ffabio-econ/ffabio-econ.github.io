@@ -87,7 +87,7 @@ Office: Room 7 (former DISA library) – Piazza Scaravilli 1, 40126 Bologna, Ita
 ## References
 
 
-<div class="two-columns">
+<div class="two-columns" style="padding-block:10px">
     <p><strong>Martín Gonzalez-Eiras</strong><br>Associate Professor<br>University of Bologna<br><span class="addrtxt">mge -> alum.mit.edu</span></p>
     <p><strong>Mariano Massimiliano Croce</strong><br>Professor of Finance<br>Bocconi University<br> <span class="addrtxt">mmc287 -> gmail.com</span></p>
 </div>

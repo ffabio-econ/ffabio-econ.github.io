@@ -102,6 +102,10 @@ nav a:hover {
   column-count: 2;
 }
 
+.two-columns p:first-child {
+  margin-top: 0;
+}
+
 .wrapper {
   width:1080px;
 }

@@ -32,7 +32,7 @@ I am fascinated by economic growth; the natural environment; and the act of lend
 # Education
 
 Currently:  **PhD in Economics** at <span class = "locit">University of Bologna</span> (IT)
-* Supervisors: [M. Gonzalez-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna) and [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
+* Advisors: [M. Gonzalez-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna) and [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
 * PhD students’ representative in the Council of Department
 * Organizer of the DSE Reading Group in Macro-Finance
 
@@ -83,9 +83,13 @@ Office: Room 7 (former DISA library) – Piazza Scaravilli 1, 40126 Bologna, Ita
 
 [LinkedIn](https://www.linkedin.com/in/f-fabio/?locale=en_US) <br>
 
-<!-- ## References
+## References
 
-Placement Director: [Pietro Biroli](https://sites.google.com/site/pietrobiroli/home) -->
+
+| Martín Gonzalez-Eiras    | Mariano Massimiliano Croce | 
+| Associate Professor | Professor of Finance   |
+| University of Bologna | Bocconi University | 
+| <span class="addrtxt">mge -> alum.mit.edu</span> | <span class="addrtxt">mmc287 -> gmail.com</span> | 
 
 
 <!-- [~~another page~~](./another-page.html). -->

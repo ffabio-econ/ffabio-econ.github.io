@@ -70,8 +70,6 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 # Work experience
 2017: **Research assistant** at <span class = "locit">Copenhagen Economics A/S</span> (DK) 
 
-<br>
-
 2014: **Planning and Control internship** at <span class = "locit">Bologna Local Health Authority</span> (IT) 
 
 

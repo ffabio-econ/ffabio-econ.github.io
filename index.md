@@ -102,13 +102,6 @@ Office: Room 7 (former DISA library) – Piazza Scaravilli 1, 40126 Bologna, Ita
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  | -->
 
-<br>
-* * *
-<br>
-
-
-![oibafox](/assets/img/oibafox.png)
-
 <!-- <img style="margin-left: auto;margin-right: auto;"  src="/assets/img/oibafox.png" alt="oibafox" /> -->
 
 

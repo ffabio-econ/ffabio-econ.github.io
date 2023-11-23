@@ -12,8 +12,7 @@ I am fascinated by economic growth; the natural environment; and the act of lend
 # Research
 
 
-<!-- ## Working papers
-## Research in progress -->
+## Working papers
 
 <!-- style="text-align: center; margin-block: 10px;" -->
 <div class="paper_entry"> <strong> The long-run innovation risk component </strong> [<a href="#" class="toggleLink">Abstract</a>]
@@ -24,6 +23,8 @@ I am fascinated by economic growth; the natural environment; and the act of lend
 <div class="paper_entry"><strong> Does CAPM overestimate more the risk or its price?</strong> [<a href="#" class="toggleLink">Abstract</a>]
 <p class="abstracttxt" style="display: none;"> CAPM is the most foundational model in finance, but empirically underestimates expected returns of low-risk assets and overestimates those of high risk. This paper first theoretically decomposes this anomaly into the effects of tight financial constraints and of risk factors omission, and then empirically assesses the contribution of each channel in explaining the anomaly. The decomposition highlights a counteracting effect between the two channels, which makes it more relevant to study them jointly. Empirically, it is found that risk factors other than the market and agnostically extracted from test assets end up explaining all of the predicted return of the BAB portfolio as formed by Frazzini and Pedersen (2014) and two thirds of the BAB portfolio formed as in Novy-Marx and Velikov (2022), although the latter is not significantly different from an equal contribution of 50%. Nevertheless, the spread on zero-beta assets originated in leverage constraints proves being significant statistically and economically, at 2% per annum.</p> 
 </div>
+
+## Research in progress 
 
 <div class="paper_entry"><strong>Are you betting against sustainability?</strong> [<a href="#" class="toggleLink">Abstract</a>]
 <p class="abstracttxt" style="display: none;"> When sustainability of assets is appreciated, its effect on discount rates does not only depend on the sustainability of the asset priced, but it is intrinsically mediated by the risk profile of the asset. This has implications for the assessment of the sustainability-related spread and for hedging shocks to sustainability concern. Specifically, (1) long-short portfolios of assets sorted on sustainability can average returns with a sign unrelated to the actual sustainability spread and, consequently, (2) the effectiveness of more sustainable assets in hedging changes to sustainability concerns depends on their ‘sustainability intensity’ and their risk <i>jointly</i>. Currently, this is tested on the Refinitiv ESG scores for US data, with inconclusive evidence regarding the existence of a ESG-related premium in the first place. </p> 

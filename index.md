@@ -15,7 +15,7 @@ I am fascinated by economic growth; the natural environment; and the act of lend
 ## Working papers
 
 <!-- style="text-align: center; margin-block: 10px;" -->
-<div class="paper_entry"> <strong> The long-run innovation risk component </strong> [<a href="#" class="toggleLink">Abstract</a>] [<a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/franceschini-rdlrr.pdf">Paper</a>] 
+<div class="paper_entry"> <strong>(JMP) The long-run innovation risk component </strong> [<a href="#" class="toggleLink">Abstract</a>] [<a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/franceschini-rdlrr.pdf">Paper</a>] 
 <p class="abstracttxt" style="display: none;">A persistent component in productivity growth has been shown to be related to a persistent component in consumption, which has significant implications for asset prices. This paper studies a measure of R&D intensity defined as the stationary deviations in R&D investment from the equilibrium level in a semi-endogenous growth model. This measure results being the error correction term of the cointegration between R&D expenditures and the productivity level. The empirical counterpart strongly forecasts productivity growth and proves having a persistence that matches well previous evidence on the productivity growth <i>long-run risk component</i>. These findings support the identification of a long-run <i>innovation</i> risk component and all of the long-run risk framework. This claim is further verified by testing the main financial implication: stocks’ cash flows sensitivities to this measure are indeed proven being associated with a significant cross-sectional risk premium.</p>
  </div>
 

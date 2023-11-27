@@ -106,6 +106,15 @@ nav a:hover {
   margin-top: 0;
 }
 
+
+.three-columns {
+  column-count: 3;
+}
+
+.three-columns p:first-child {
+  margin-top: 0;
+}
+
 .wrapper {
   width:1080px;
 }

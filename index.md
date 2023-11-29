@@ -56,7 +56,7 @@ Currently:  **PhD in Economics** at <span class = "locit">University of Bologna<
 # Teaching experience
 &emsp;At <span class = "locit">University of Bologna</span> (IT):
 
-2022-24: **Asset Pricing** (Grad), TA to Prof. M. Gonzalez-Eiras
+2022, 23, 24: **Asset Pricing** (Grad), TA to Prof. M. Gonzalez-Eiras
 
 2024: **Financial Econometrics** (Grad), TA to Prof. G. Moramarco
 

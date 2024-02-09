@@ -34,7 +34,7 @@ I am fascinated by economic growth; the natural environment; and the act of lend
 
 # Education
 
-Currently:  **PhD in Economics** at <span class = "locit">University of Bologna</span> (IT)
+2024:  **PhD in Economics** at <span class = "locit">University of Bologna</span> (IT)
 * Advisors: [M. Gonzalez-Eiras](https://sites.google.com/view/mgeiras/inicio) (U of Bologna) and [M.M. Croce](https://sites.google.com/view/mmcroce/home) (Bocconi U)
 * PhD students’ representative in the Council of Department
 * Organizer of the DSE Reading Group in Macro-Finance

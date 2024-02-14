@@ -10,7 +10,7 @@ I am fascinated by economic growth, the natural environment, and the act of lend
 
 <br>
 
-Since 2023, I am a Research Fellow at Economics Department of the University of Bologna (IT).
+Since 2023, I am a Research Fellow at the Economics Department of the University of Bologna (IT).
 
 # Research
 

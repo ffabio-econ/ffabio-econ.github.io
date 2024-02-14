@@ -5,9 +5,10 @@ layout: default
 <!-- > Welcome! 
 >  -->
 
-I am fascinated by economic growth; the natural environment; and the act of lending. In my work I mainly employ statistical tools, such as cointegration models and dimension-reduction techniques, to study aggregate economic phenomena and mechanisms related to these themes, through the lenses of financial markets.
+I am fascinated by economic growth, the natural environment, and the act of lending. In my work I study aggregate economic phenomena related to these themes, mainly employing statistical tools, such as cointegration models and dimension-reduction techniques, to financial markets data. 
+<!-- and mechanisms -->
 
-
+Since 2023, I am a Research Fellow at Economics Department of the University of Bologna (IT).
 
 # Research
 
@@ -39,7 +40,7 @@ I am fascinated by economic growth; the natural environment; and the act of lend
 * PhD students’ representative in the Council of Department
 * Organizer of the DSE Reading Group in Macro-Finance
 
-2023-24: Research Fellowship at <span class = "locit">University of Bologna</span> (IT), supervisor: G. Cavaliere <br>
+<!-- 2023-24: Research Fellowship at <span class = "locit">University of Bologna</span> (IT), supervisor: G. Cavaliere <br> -->
 2022-23: Visiting Student at <span class = "locit">London Business School</span> (UK), sponsor: H. Kung <br>
 2020-21: Visiting Student (virtual) at <span class = "locit">Bocconi University</span> (IT), sponsor: M.M. Croce <br>
 2020: Visiting Student (virtual) at <span class = "locit">Vienna Graduate School of Finance</span> (AT), sponsor: C. Wagner <br>

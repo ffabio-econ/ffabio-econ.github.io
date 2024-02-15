@@ -14,6 +14,7 @@ Since 2023, I am a **Research Fellow** at the Economics Department of the **Univ
 I am fascinated by economic growth, the natural environment, and the act of lending. In my work I study aggregate economic phenomena related to these themes, primarily applying statistical tools, such as cointegration models and dimension-reduction techniques, to financial markets data. 
 <!-- and mechanisms -->
 
+<br>
 
 ## Working papers
 

@@ -5,12 +5,12 @@ layout: default
 <!-- > Welcome! 
 >  -->
 
-I am fascinated by economic growth, the natural environment, and the act of lending. In my work I study aggregate economic phenomena related to these themes, mainly employing statistical tools, such as cointegration models and dimension-reduction techniques, to financial markets data. 
+I am fascinated by economic growth, the natural environment, and the act of lending. In my work I study aggregate economic phenomena related to these themes, primarily applying statistical tools, such as cointegration models and dimension-reduction techniques, to financial markets data. 
 <!-- and mechanisms -->
 
 <br>
 
-Since 2023, I am a Research Fellow at the Economics Department of the University of Bologna (IT).
+Since 2023, I am a **Research Fellow** at the Economics Department of the **University of Bologna** (IT).
 
 # Research
 

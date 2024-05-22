@@ -19,7 +19,7 @@ I am fascinated by economic growth, the natural environment, and the act of lend
 ## Working papers
 
 <!-- style="text-align: center; margin-block: 10px;" -->
-<div class="paper_entry"> <strong>(JMP) The long-run innovation risk component </strong> [<a href="#" class="toggleLink">Abstract</a>] [<a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/franceschini-rdlrr.pdf">Paper</a>] 
+<div class="paper_entry"> <strong>The long-run innovation risk component (under revision) </strong> [<a href="#" class="toggleLink">Abstract</a>] [<a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/franceschini-rdlrr.pdf">Paper</a>] 
 <p class="abstracttxt" style="display: none;"> This paper provides evidence that aggregate Research and Development (R&D) investment drives a persistent component in productivity growth and that this embodies a risk priced in financial markets. In a semi-endogenous growth model, this component is identified by the R&D in excess of equilibrium levels and can be approximated by the Error Correction Term in the cointegration between R&D and Total Factor Productivity. Empirically, the component results being well defined and it satisfies all key theoretical predictions: it exhibits appropriate persistency, it forecasts productivity growth, and it is associated with a cross-sectional risk premium. </p>
  </div>
 

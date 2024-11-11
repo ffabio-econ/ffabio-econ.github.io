@@ -36,6 +36,9 @@ I am fascinated by economic growth, the natural environment, and the act of lend
 <p class="abstracttxt" style="display: none;"> When sustainability of assets is appreciated, its effect on discount rates does not only depend on the sustainability of the asset priced, but it is intrinsically mediated by the risk profile of the asset. This has implications for the assessment of the sustainability-related spread and for hedging shocks to sustainability concern. Specifically, (1) long-short portfolios of assets sorted on sustainability can average returns with a sign unrelated to the actual sustainability spread and, consequently, (2) the effectiveness of more sustainable assets in hedging changes to sustainability concerns depends on their ‘sustainability intensity’ and their risk <i>jointly</i>. Estimations employing the Refinitiv ESG scores for US stocks shows a weak sustainability premium, whose significance, importantly, diverges from that of average return of a plain long-short portfolio. </p> 
 </div>
 
+<div class="paper_entry"><strong>On the impact of climate uncertainty</strong></div>
+
+
 # Education
 
 2024:  **PhD in Economics** at <span class = "locit">University of Bologna</span> (IT)

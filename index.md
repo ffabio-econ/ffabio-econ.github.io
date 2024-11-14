@@ -89,6 +89,8 @@ Office: Room 7 (former DiSA library) – Piazza Scaravilli 1, 40126 Bologna, Ita
 <!-- [SSRN Author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2836171) <br> -->
 [Institutional webpage](https://www.unibo.it/sitoweb/f.franceschini/en) <br>
 
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2836171) <br>
+
 [LinkedIn](https://www.linkedin.com/in/f-fabio/?locale=en_US) <br>
 
 [Twitter](https://twitter.com/FFabio_econ) <br>

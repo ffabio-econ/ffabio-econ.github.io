@@ -90,7 +90,7 @@ nav a {
   text-align: center; /* Center the text within the block */
   padding: 0 10px; /* Adds 10px padding on left and right */
   display: inline-block;
-  border: 2px solid transparent; /* Invisible border */
+  border: 0 2px solid transparent; /* Invisible border */
   transition: font-weight 0.3s ease, color 0.3s ease, background-color 0.3s ease;
 }
 

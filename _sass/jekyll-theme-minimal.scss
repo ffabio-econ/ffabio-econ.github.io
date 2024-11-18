@@ -90,7 +90,7 @@ nav a {
   text-align: center; /* Center the text within the block */
   padding: 0 10px; /* Adds 10px padding on left and right */
   display: inline-block;
-  border: 0 2px solid transparent; /* Invisible border */
+  width: auto;
   transition: font-weight 0.3s ease, color 0.3s ease, background-color 0.3s ease;
 }
 
@@ -100,6 +100,17 @@ nav a:hover {
   font-weight: bold;
   border-color: transparent; /* Maintain spacing */
 }
+
+
+nav a::after {
+  content: attr(data-label);
+  font-weight: bold;
+  visibility: hidden;
+  height: 0;
+  overflow: hidden;
+  display: block;
+}
+
 
 .current {
   color:#fff;

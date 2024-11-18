@@ -91,7 +91,6 @@ nav a {
   padding: 0 10px; /* Adds 10px padding on left and right */
   display: inline-block;
   border: 0 2px solid transparent; /* Invisible border */
-  outline: none; /* Ensures a cleaner look */
   transition: font-weight 0.3s ease, color 0.3s ease, background-color 0.3s ease;
 }
 
@@ -100,7 +99,6 @@ nav a:hover {
   background-color: #03121f;
   font-weight: bold;
   border-color: transparent; /* Maintain spacing */
-  outline: 2px solid #03121f; /* Adds a hover outline */
 }
 
 .current {

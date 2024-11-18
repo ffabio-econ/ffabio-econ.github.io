@@ -32,10 +32,8 @@ nav {
   font-size:21px;
   padding-block: 23px 10px;
   margin-top: 0px;
-  /* display: block; */
+  display: block;
   position: fixed;
-  display: flex;
-  /* gap: 10px;  Adjust the gap as needed */
 }
 
 h1, h2, h3 {
@@ -87,19 +85,14 @@ nav a {
   text-decoration: none;
   font-weight: 300;
   font-size:23px;
-  text-align: center; /* Center the text within the block */
-  padding: 0 10px; /* Adds 10px padding on left and right */
-  display: inline-block;
-  width: auto;
-  transition: font-weight 0.3s ease, color 0.3s ease, background-color 0.3s ease;
 }
 
 nav a:hover {
   color:#fff;
   background-color: #03121f;
   font-weight: bold;
+  transition: font-weight 0.3s ease, color 0.3s ease, background-color 0.3s ease;
 }
-
 
 .current {
   color:#fff;

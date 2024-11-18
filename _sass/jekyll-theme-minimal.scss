@@ -88,7 +88,7 @@ nav a {
   font-weight: 300;
   font-size:23px;
   text-align: center; /* Center the text within the block */
-  width: 100px; /* Set a fixed width */
+  padding: 0 10px; /* Adds 10px padding on left and right */
   display: inline-block;
   transition: font-weight 0.3s ease, color 0.3s ease, background-color 0.3s ease;
 }

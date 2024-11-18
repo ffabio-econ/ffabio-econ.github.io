@@ -87,6 +87,7 @@ nav a {
   text-decoration: none;
   font-weight: 300;
   font-size:23px;
+  width: 100px; /* Set a fixed width */
   display: inline-block;
   transition: font-weight 0.3s ease, color 0.3s ease, background-color 0.3s ease;
 }

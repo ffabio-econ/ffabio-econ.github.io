@@ -93,6 +93,15 @@ nav a:hover {
   font-weight: bold;
 }
 
+nav a::before {
+  content: attr(data-text);
+  font-weight: bold;
+  visibility: hidden;
+  position: absolute;
+  left: 0;
+}
+
+
 .current {
   color:#fff;
   background-color: #03121f;

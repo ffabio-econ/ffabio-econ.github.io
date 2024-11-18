@@ -21,7 +21,7 @@
         We have to declare it 'null' to ensure it doesn't propagate. 
         {% assign current = null %}
     {% endif %} -->
-    <a style="padding: 4px 10px 3px 10px; margin-inline: 0px 21px;" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a> <!--{{ current }} after "a"-->
+    <a style="padding: 4px 10px 3px 10px; margin-inline: 0px 21px; " data-text="Link Text" href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a> <!--{{ current }} after "a"-->
 {% endfor %}
 
 </nav>

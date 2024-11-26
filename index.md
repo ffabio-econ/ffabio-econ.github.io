@@ -19,7 +19,7 @@ I am fascinated by economic growth, the natural environment, and the act of lend
 ## Working papers
 
 <!-- style="text-align: center; margin-block: 10px;" -->
-<div class="paper_entry"> <strong>The long-run innovation risk component (under revision) </strong> [<a href="#" class="toggleLink">Abstract</a>] [<a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/franceschini-rdlrr.pdf">Paper</a>] 
+<div class="paper_entry"> <strong>The long-run innovation risk component (JMP) </strong> [<a href="#" class="toggleLink">Abstract</a>] [<a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/franceschini-rdlrr.pdf">Paper</a>] 
 <p class="abstracttxt" style="display: none;"> This paper provides empirical evidence that aggregate Research and Development (R&D) drives persistent fluctuations in productivity growth and that these embody a risk priced in financial markets. The analysis relies on a definition of R&D intensity that is cast in a semi-endogenous growth framework, where its deviations from the long-run equilibrium level are reflected in the Error Correction Term of the cointegration between R&D and Total Factor Productivity. This R&D measure results having more desirable statistical properties compared to the fully endogenous case, such as a persistence that matches previous evidence on productivity long-run risk and, more importantly, a stationary behavior. Stationarity allows to reliably document key theoretical predictions, the most notable of which is a significant cross-sectional risk premium associated to stocks' cash-flows sensitivities. </p>
  </div>
 

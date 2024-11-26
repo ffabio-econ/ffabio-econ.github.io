@@ -38,6 +38,7 @@ I am fascinated by economic growth, the natural environment, and the act of lend
 
 <div class="paper_entry"><strong>On the impact of climate uncertainty</strong></div>
 
+<div class="paper_entry"><strong>The long-run temperature risk component</strong></div>
 
 # Education
 

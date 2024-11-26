@@ -112,6 +112,7 @@ nav a:hover {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  align-items: stretch; /* Ensures all columns are the same height */
 }
 
 @media screen and (min-width: 1080px) {

@@ -85,7 +85,7 @@ I am fascinated by economic growth, the natural environment, and the act of lend
 
 
 # Contacts
-Office: Room 7 (former DiSA library) – Piazza Scaravilli 1, 40126 Bologna, Italy <br>
+Office: Room 7 – Piazza Scaravilli 1, 40126 Bologna, Italy <br> <!-- (former DiSA library) -->
 
 <!-- [SSRN Author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2836171) <br> -->
 [Institutional webpage](https://www.unibo.it/sitoweb/f.franceschini/en) <br>

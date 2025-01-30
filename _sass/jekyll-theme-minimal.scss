@@ -123,11 +123,8 @@ nav a:hover {
   
   .three-columns > * {
     width: 30%;
+    margin-top: 0;
   }
-}
-
-.three-columns p:first-child {
-  margin-top: 0;
 }
 
 .wrapper {

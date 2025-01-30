@@ -13,19 +13,12 @@
 {% endfor %}-->
 
 <!-- Then we build the nav bar. -->
+ 
 <nav>
-{% for entry in site.data.navigation %}
-    <!--  {% if entry.url == current_page %}
-        {% assign current = ' class="current"' %}
-    {% else %}
-        We have to declare it 'null' to ensure it doesn't propagate. 
-        {% assign current = null %}
-    {% endif %} -->
-    <a style="padding: 4px 10px 3px 10px; margin-inline: 0px 21px; " href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a> <!--{{ current }} after "a"-->
-{% endfor %}
-
+    {% for entry in site.data.navigation %}
+      <a style="padding: 4px 10px 3px 10px; margin-inline: 0px 21px;" href="{{ site.baseurl }}{{ entry.url }}" data-text="{{ entry.title }}">{{ entry.title }}</a>
+    {% endfor %}
 </nav>
-
 
 
 

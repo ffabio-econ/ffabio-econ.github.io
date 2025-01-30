@@ -88,12 +88,7 @@ nav a {
   font-size: 23px;
   padding: 4px 10px 3px 10px;
   margin-inline: 0px 21px;
-  /* Add this to force links to maintain their width */
-  min-width: max-content;
-  /* Force GPU acceleration and prevent layout shift */
-  transform: translateZ(0);
-  /* Add an invisible bold clone of the text */
-  position: relative;
+  width: 100px; // Set a fixed width based on your design
   // font-feature-settings: "salt";
   // display: inline-block;
   // width: max-content;

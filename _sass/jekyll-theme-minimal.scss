@@ -86,7 +86,10 @@ nav a {
   font-weight: 300;
   font-size:23px;
   // padding: 4px 10px 3px 10px;
-  font-feature-settings: "salt";
+  // font-feature-settings: "salt";
+  display: inline-block;
+  width: max-content;
+  min-width: fit-content;
 }
 
 nav a:hover {

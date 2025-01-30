@@ -80,16 +80,25 @@ a:hover small {
   color:#777;
 }
 
+nav {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: max-content;
+  gap: 21px;
+  justify-content: start;
+}
+
 nav a {
-  color:#03121f;
+  color: #03121f;
   text-decoration: none;
   font-weight: 300;
-  font-size:23px;
+  font-size: 23px;
+  padding: 4px 10px 3px 10px;
   // padding: 4px 10px 3px 10px;
   // font-feature-settings: "salt";
-  display: inline-block;
-  width: max-content;
-  min-width: fit-content;
+  // display: inline-block;
+  // width: max-content;
+  // min-width: fit-content;
 }
 
 nav a:hover {

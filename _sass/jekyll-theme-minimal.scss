@@ -80,13 +80,6 @@ a:hover small {
   color:#777;
 }
 
-nav {
-  display: grid;
-  grid-auto-flow: column;
-  grid-auto-columns: max-content;
-  gap: 21px;
-  justify-content: start;
-}
 
 nav a {
   color: #03121f;
@@ -94,6 +87,13 @@ nav a {
   font-weight: 300;
   font-size: 23px;
   padding: 4px 10px 3px 10px;
+  margin-inline: 0px 21px;
+  /* Add this to force links to maintain their width */
+  min-width: max-content;
+  /* Force GPU acceleration and prevent layout shift */
+  transform: translateZ(0);
+  /* Add an invisible bold clone of the text */
+  position: relative;
   // padding: 4px 10px 3px 10px;
   // font-feature-settings: "salt";
   // display: inline-block;
@@ -101,12 +101,25 @@ nav a {
   // min-width: fit-content;
 }
 
+
 nav a:hover {
   color:#fff;
   background-color: #03121f;
   font-weight: bold;
   transition: font-weight 0.3s ease, color 0.3s ease, background-color 0.3s ease;
 }
+
+
+nav a::after {
+  content: attr(href);
+  display: block;
+  font-weight: bold;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+  position: absolute;
+}
+
 
 .current {
   color:#fff;

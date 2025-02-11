@@ -19,12 +19,12 @@ I am an applied financial economist, fascinated by economic growth, the natural 
 ## Working papers
 
 <!-- style="text-align: center; margin-block: 10px;" -->
-<div class="paper_entry"> <strong>The long-run innovation risk component (JMP) </strong>  [<a href="#" class="toggleLink">Abstract</a>]  [<a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/franceschini-rdlrr.pdf">Paper (under revision)</a>]  [<a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/Franceschini-rd_lrr-pres.pdf">Slides</a>] 
+<div class="paper_entry"> <strong>The Long-Run Innovation Risk Component (JMP) </strong>  [<a href="#" class="toggleLink">Abstract</a>]  [<a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/franceschini-rdlrr.pdf">Paper (under revision)</a>]  [<a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/Franceschini-rd_lrr-pres.pdf">Slides</a>] 
 <p class="abstracttxt" style="display: none;"> This paper provides empirical evidence that aggregate Research and Development (R&D) drives persistent fluctuations in productivity growth and that these embody a risk priced in financial markets. The analysis relies on a definition of R&D intensity that is cast in a semi-endogenous growth framework, where its deviations from the long-run equilibrium level are reflected in the Error Correction Term of the cointegration between R&D and Total Factor Productivity. This R&D measure results having more desirable statistical properties compared to the fully endogenous case, such as a persistence that matches previous evidence on productivity long-run risk and, more importantly, a stationary behavior. Stationarity allows to reliably document key theoretical predictions, the most notable of which is a significant cross-sectional risk premium associated to stocks' cash-flows sensitivities. </p>
  </div>
 
 
-<div class="paper_entry"><strong> Does CAPM overestimate more the risk or its price?</strong> [<a href="#" class="toggleLink">Abstract</a>] [<a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/franceschini-lra.pdf">Paper</a>]
+<div class="paper_entry"><strong>Does CAPM Overestimate More the Risk or Its Price?</strong> [<a href="#" class="toggleLink">Abstract</a>] [<a href="https://github.com/ffabio-econ/ffabio-econ.github.io/raw/main/assets/docs/franceschini-lra.pdf">Paper</a>]
 <p class="abstracttxt" style="display: none;"> CAPM is known to empirically underestimate expected returns of low-risk assets and overestimate those with high risk. This paper studies how risks omission and funding tightness jointly contribute to explaining this anomaly, with the former affecting the definition of assets’ riskiness and the latter affecting how risk is remunerated. Theoretically, the two effects are shown to counteract each other. Empirically, the spread related to binding leverage constraints is found to be significant at 2% yearly. Nonetheless, average returns of portfolios that exploit this anomaly are found to mostly reflect omitted risks, contrasting how they have been used in previous analysis. </p> 
 </div>
 
@@ -32,13 +32,13 @@ I am an applied financial economist, fascinated by economic growth, the natural 
 
 ## Research in progress 
 
-<div class="paper_entry"><strong>Are you betting on sustainability?</strong> [<a href="#" class="toggleLink">Abstract</a>]
+<div class="paper_entry"><strong>Are You Betting On Sustainability?</strong> [<a href="#" class="toggleLink">Abstract</a>]
 <p class="abstracttxt" style="display: none;"> When sustainability of assets is appreciated, its effect on discount rates does not only depend on the sustainability of the asset priced, but it is intrinsically mediated by the risk profile of the asset. This has implications for the assessment of the sustainability-related spread and for hedging shocks to sustainability concern. Specifically, (1) long-short portfolios of assets sorted on sustainability can average returns with a sign unrelated to the actual sustainability spread and, consequently, (2) the effectiveness of more sustainable assets in hedging changes to sustainability concerns depends on their ‘sustainability intensity’ and their risk <i>jointly</i>. Estimations employing the Refinitiv ESG scores for US stocks shows a weak sustainability premium, whose significance, importantly, diverges from that of average return of a plain long-short portfolio. </p> 
 </div>
 
-<div class="paper_entry"><strong>Granular physical climate uncertainty</strong></div>
+<div class="paper_entry"><strong>Granular Physical Climate Uncertainty</strong></div>
 
-<div class="paper_entry"><strong>The long-run temperature risk component</strong></div>
+<div class="paper_entry"><strong>The Long-Run Temperature Risk Component</strong></div>
 
 # Education
 

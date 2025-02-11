@@ -64,9 +64,9 @@ I am an applied financial economist, fascinated by economic growth, the natural 
 # Teaching experience
 &emsp;At <span class = "locit">University of Bologna</span> (IT):
 
-2022, 23, 24: **Asset Pricing** (Grad), TA to Prof. M. Gonzalez-Eiras
+2022-25: **Asset Pricing** (Grad), TA to Prof. M. Gonzalez-Eiras
 
-2024: **Financial Econometrics** (Grad), TA to Prof. G. Moramarco
+2024-25: **Financial Econometrics** (Grad), TA to Prof. G. Moramarco
 
 2021: **Asset Pricing** (Grad), TA to Prof. G. Camera
 

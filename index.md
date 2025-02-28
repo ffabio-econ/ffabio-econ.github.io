@@ -36,7 +36,7 @@ I am an applied financial economist, fascinated by economic growth, the natural 
 <p class="abstracttxt" style="display: none;"> When sustainability of assets is appreciated, its effect on the discount rates does not depend on the sustainability of the asset priced only, but it is intrinsically mediated by the risk profile of the asset itself. This has significant implications for the measurement of the actual spreads associated to sustainability concerns in financial markets as well as for hedging changes in the sustainability concerns. Specifically, (1) average returns of long-short portfolios of assets sorted on sustainability can be totally unrelated to the priced spread and (2) the effectiveness of assets in hedging changes to the sustainability concerns will depend on assets' "sustainability intensity" and their risk <i>jointly</i>. The main implications are tested on a ESG score measure for US stocks, revealing, in fact, a detachment between the average excess return of a high-minus-low ESG portfolio and the measured ESG spread. </p> 
 </div>
 
-<div class="paper_entry"><strong>Granular Physical Climate Uncertainty</strong></div>
+<div class="paper_entry"><strong>Local Physical Climate Uncertainty</strong></div>
 
 <div class="paper_entry"><strong>The Long-Run Temperature Risk Component</strong></div>
 

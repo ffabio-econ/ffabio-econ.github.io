@@ -92,7 +92,7 @@ Institutional email: <span class="addrtxt">f.franceschini -> unibo.it</span>
 <!-- [SSRN Author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2836171) <br> -->
 [Institutional webpage](https://www.unibo.it/sitoweb/f.franceschini/en) <br>
 
-[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2836171) <br>
+[SSRN](https://ssrn.com/author=2836171) <br>
 
 [LinkedIn](https://www.linkedin.com/in/f-fabio/?locale=en_US) <br>
 

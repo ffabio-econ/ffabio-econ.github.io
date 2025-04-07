@@ -94,9 +94,9 @@ Institutional email: <span class="addrtxt">f.franceschini -> unibo.it</span>
 
 [SSRN](https://ssrn.com/author=2836171) <br>
 
-[LinkedIn](https://www.linkedin.com/in/f-fabio/?locale=en_US) <br>
+[LinkedIn](https://www.linkedin.com/in/fabio-frn/?locale=en_US) <br>
 
-[Twitter](https://twitter.com/FFabio_econ) <br>
+[Twitter](https://twitter.com/Fab_Frn) <br>
 
 
 ## References

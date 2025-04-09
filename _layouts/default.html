@@ -6,6 +6,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  {% include head-custom.html %}
+
   {% seo %}
   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   <!--[if lt IE 9]>
@@ -62,18 +64,13 @@
     
     </header>
     <section>
-    
-      {% include navigation.html %}
-    
+        
       <div style="margin-block: 100px 45px;">
         {{ content }}
       </div>
     
       <br>
-    
-      <img src="/assets/img/oibafox.png" alt="oibafox" style="margin-block: 50px 25px;">
-      <!-- ![oibafox](/assets/img/oibafox.png)-->
-    
+        
     </section>
   </div>
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
